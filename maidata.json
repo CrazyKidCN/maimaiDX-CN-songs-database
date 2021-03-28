@@ -7,7 +7,8 @@
     "dx_lev_bas": "1",
     "dx_lev_adv": "5",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "LOSER",
@@ -17,7 +18,8 @@
     "dx_lev_bas": "1",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "U.S.A.",
@@ -28,7 +30,8 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
     "dx_lev_mas": "11",
-    "dx_lev_remas": "12"
+    "dx_lev_remas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "新宝島",
@@ -38,7 +41,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "舞萌DX"
   },
   {
     "title": "いつかいい感じにアレしよう",
@@ -48,7 +52,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "ラブ・ドラマティック feat. 伊原六花",
@@ -58,7 +63,8 @@
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "HOT LIMIT",
@@ -68,7 +74,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "シュガーソングとビターステップ",
@@ -82,7 +89,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "PiNK PLUS"
   },
   {
     "title": "かくしん的☆めたまるふぉ～ぜっ！",
@@ -97,7 +105,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "にめんせい☆ウラオモテライフ！",
@@ -108,7 +117,8 @@
     "lev_adv": "6",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "MiLK PLUS"
   },
   {
     "title": "うまるん体操",
@@ -119,7 +129,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "MiLK PLUS"
   },
   {
     "title": "ネ！コ！",
@@ -129,7 +140,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "SHINY DAYS",
@@ -139,7 +151,8 @@
     "lev_bas": "3",
     "lev_adv": "5",
     "lev_exp": "7+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "FiNALE"
   },
   {
     "title": "only my railgun",
@@ -150,7 +163,8 @@
     "lev_adv": "6",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "君の知らない物語",
@@ -160,7 +174,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN"
   },
   {
     "title": "コネクト",
@@ -170,7 +185,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "7+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai"
   },
   {
     "title": "真・ハンサム体操でズンドコホイ",
@@ -180,7 +196,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "GET!! 夢&DREAM",
@@ -190,7 +207,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "バラライカ",
@@ -200,7 +218,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN PLUS"
   },
   {
     "title": "若い力 -SEGA HARD GIRLS MIX-",
@@ -211,7 +230,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "11",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "セハガガガンバッちゃう！！",
@@ -221,7 +241,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "ラブリー☆えんじぇる!!",
@@ -231,7 +252,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "PiNK"
   },
   {
     "title": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",
@@ -241,7 +263,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "デビル☆アイドル",
@@ -251,7 +274,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "きらっせ☆ウッド村ファーム",
@@ -261,7 +285,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "にじよめちゃん体操第一億",
@@ -271,7 +296,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Rodeo Machine",
@@ -281,7 +307,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "true my heart -Lovable mix-",
@@ -291,7 +318,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "FiNALE"
   },
   {
     "title": "Arrival of Tears",
@@ -301,7 +329,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "POP STAR",
@@ -311,7 +340,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Love or Lies",
@@ -321,7 +351,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "jelly",
@@ -331,7 +362,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "7+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai"
   },
   {
     "title": "美しく燃える森",
@@ -341,7 +373,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "Love You",
@@ -351,7 +384,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "come again",
@@ -361,7 +395,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "Future",
@@ -372,7 +407,8 @@
     "lev_adv": "6",
     "lev_exp": "7+",
     "lev_mas": "9",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai"
   },
   {
     "title": "ウッーウッーウマウマ(ﾟ∀ﾟ)",
@@ -382,7 +418,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai"
   },
   {
     "title": "NIGHT OF FIRE",
@@ -392,7 +429,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "YATTA!",
@@ -402,7 +440,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN PLUS"
   },
   {
     "title": "ミラクル・ショッピング",
@@ -412,7 +451,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK"
   },
   {
     "title": "fake!fake!",
@@ -422,7 +462,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "HIMITSUスパーク",
@@ -432,7 +473,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "ジンギスカン",
@@ -442,7 +484,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "ポップミュージックは僕のもの",
@@ -452,7 +495,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "日本の米は世界一",
@@ -462,7 +506,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.",
@@ -472,7 +517,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "夏祭り",
@@ -482,7 +528,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "PiNK PLUS"
   },
   {
     "title": "アンドロイドガール",
@@ -492,7 +539,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "スロウダウナー",
@@ -502,7 +550,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "ビターチョコデコレーション",
@@ -512,7 +561,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "スターリースカイ☆パレード",
@@ -522,7 +572,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "だれかの心臓になれたなら",
@@ -532,7 +583,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "グリーンライツ・セレナーデ",
@@ -542,7 +594,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "METEOR",
@@ -552,7 +605,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "だからパンを焼いたんだ",
@@ -562,7 +616,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "太陽系デスコ",
@@ -572,7 +627,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "彗星ハネムーン",
@@ -582,7 +638,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK PLUS"
   },
   {
     "title": "ダンスロボットダンス",
@@ -592,7 +649,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "エイリアンエイリアン",
@@ -602,7 +660,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "パーフェクト生命",
@@ -612,7 +671,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
@@ -622,7 +682,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "アカリがやってきたぞっ",
@@ -632,7 +693,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "幾望の月",
@@ -642,7 +704,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "キミノヨゾラ哨戒班",
@@ -652,7 +715,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "ウミユリ海底譚",
@@ -662,7 +726,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "白ゆき",
@@ -672,7 +737,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "イカサマライフゲイム",
@@ -682,7 +748,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "敗北の少年",
@@ -692,7 +759,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "インビジブル",
@@ -703,7 +771,8 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "人生リセットボタン",
@@ -713,7 +782,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "リンカーネイション",
@@ -723,7 +793,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "六兆年と一夜物語",
@@ -737,7 +808,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "フラジール",
@@ -747,7 +819,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "命ばっかり",
@@ -757,7 +830,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "フィクサー",
@@ -767,7 +841,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "チュルリラ・チュルリラ・ダッダッダ！",
@@ -777,7 +852,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "サヨナラチェーンソー",
@@ -787,7 +863,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "39みゅーじっく！",
@@ -797,7 +874,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "舞萌DX"
   },
   {
     "title": "ロキ",
@@ -808,7 +886,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "バレリーコ",
@@ -818,7 +897,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "いーあるふぁんくらぶ",
@@ -833,7 +913,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "10+"
+    "dx_lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "だんだん早くなる",
@@ -844,7 +925,8 @@
     "lev_adv": "7",
     "lev_exp": "8+",
     "lev_mas": "10+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "恋愛裁判",
@@ -854,7 +936,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "PiNK PLUS"
   },
   {
     "title": "からくりピエロ",
@@ -865,7 +948,8 @@
     "lev_adv": "5",
     "lev_exp": "8+",
     "lev_mas": "10",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "厨病激発ボーイ",
@@ -875,7 +959,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "脳漿炸裂ガール",
@@ -889,7 +974,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "GreeN"
   },
   {
     "title": "カゲロウデイズ",
@@ -900,7 +986,8 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "11",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "GreeN"
   },
   {
     "title": "夜咄ディセイブ",
@@ -910,7 +997,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "アウターサイエンス",
@@ -920,7 +1008,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "アディショナルメモリー",
@@ -930,7 +1019,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "砂の惑星 feat. HATSUNE MIKU",
@@ -940,7 +1030,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "ドーナツホール",
@@ -950,7 +1041,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "マトリョシカ",
@@ -961,7 +1053,8 @@
     "lev_adv": "7+",
     "lev_exp": "8",
     "lev_mas": "9+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "maimai"
   },
   {
     "title": "パンダヒーロー",
@@ -971,7 +1064,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "WORLD'S END UMBRELLA",
@@ -981,7 +1075,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "FiNALE"
   },
   {
     "title": "結ンデ開イテ羅刹ト骸",
@@ -992,7 +1087,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "11",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "ゴーゴー幽霊船",
@@ -1002,7 +1098,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai PLUS"
   },
   {
     "title": "アンノウン・マザーグース",
@@ -1012,7 +1109,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "アンハッピーリフレイン",
@@ -1022,7 +1120,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "裏表ラバーズ",
@@ -1032,7 +1131,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "ローリンガール",
@@ -1042,7 +1142,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "ワールズエンド・ダンスホール",
@@ -1053,7 +1154,8 @@
     "lev_adv": "7",
     "lev_exp": "7",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "maimai"
   },
   {
     "title": "ヒバナ",
@@ -1064,7 +1166,8 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "妄想感傷代償連盟",
@@ -1075,7 +1178,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "ゴーストルール",
@@ -1085,7 +1189,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "ストリーミングハート",
@@ -1095,7 +1200,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "毒占欲",
@@ -1105,7 +1211,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "二息歩行",
@@ -1115,7 +1222,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "モザイクロール",
@@ -1125,7 +1233,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "弱虫モンブラン",
@@ -1135,7 +1244,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "39",
@@ -1150,7 +1260,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Mr. Wonderland",
@@ -1160,7 +1271,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "ワンダーラスト",
@@ -1170,7 +1282,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "頓珍漢の宴",
@@ -1180,7 +1293,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK"
   },
   {
     "title": "ありふれたせかいせいふく",
@@ -1190,7 +1304,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "腐れ外道とチョコレゐト",
@@ -1200,7 +1315,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "ヒビカセ",
@@ -1210,7 +1326,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "+♂",
@@ -1220,7 +1337,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "セツナトリップ",
@@ -1230,7 +1348,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "放課後ストライド",
@@ -1240,7 +1359,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "このピアノでお前を8759632145回ぶん殴る",
@@ -1250,7 +1370,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "やめろ！聴くな！",
@@ -1260,7 +1381,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "メランコリック",
@@ -1270,7 +1392,8 @@
     "lev_bas": "6",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "ZIGG-ZAGG",
@@ -1281,7 +1404,8 @@
     "lev_adv": "6",
     "lev_exp": "7+",
     "lev_mas": "9",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai"
   },
   {
     "title": "I ♥",
@@ -1291,7 +1415,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "ラブチーノ",
@@ -1301,7 +1426,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "スイートマジック",
@@ -1311,7 +1437,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai PLUS"
   },
   {
     "title": "リリリリ★バーニングナイト",
@@ -1321,7 +1448,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "イアイア★ナイトオブデザイア",
@@ -1331,7 +1459,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "GreeN"
   },
   {
     "title": "ルカルカ★ナイトフィーバー",
@@ -1341,7 +1470,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "メグメグ☆ファイアーエンドレスナイト",
@@ -1351,7 +1481,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "深海少女",
@@ -1361,7 +1492,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "トルコ行進曲 - オワタ＼(^o^)／",
@@ -1371,7 +1503,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "Sweetiex2",
@@ -1381,7 +1514,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai PLUS"
   },
   {
     "title": "shake it!",
@@ -1391,7 +1525,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "ORANGE"
   },
   {
     "title": "Heart Beats",
@@ -1401,7 +1536,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "ORANGE"
   },
   {
     "title": "初音ミクの激唱",
@@ -1411,7 +1547,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "初音ミクの消失",
@@ -1421,7 +1558,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK"
   },
   {
     "title": "終点",
@@ -1431,7 +1569,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "Tell Your World",
@@ -1442,7 +1581,8 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "10+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "ジャガーノート",
@@ -1452,7 +1592,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "メルティランドナイトメア",
@@ -1462,7 +1603,8 @@
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "メルト",
@@ -1472,7 +1614,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "舞萌DX"
   },
   {
     "title": "デンパラダイム",
@@ -1482,7 +1625,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "骸骨楽団とリリア",
@@ -1492,7 +1636,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "星屑ユートピア",
@@ -1502,7 +1647,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "アマツキツネ",
@@ -1512,7 +1658,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "Strobe♡Girl",
@@ -1522,7 +1669,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "ナイトメア☆パーティーナイト",
@@ -1533,7 +1681,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "はやくそれになりたい！",
@@ -1544,7 +1693,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "おねがいダーリン",
@@ -1554,7 +1704,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "フリィダム ロリィタ",
@@ -1564,7 +1715,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "幸せになれる隠しコマンドがあるらしい",
@@ -1574,7 +1726,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "しねばいいのに",
@@ -1584,7 +1737,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "キレキャリオン",
@@ -1594,7 +1748,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "ドクハク",
@@ -1604,7 +1759,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "アルカリレットウセイ",
@@ -1614,7 +1770,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK"
   },
   {
     "title": "名探偵連続殺人事件",
@@ -1624,7 +1781,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "ARROW",
@@ -1634,7 +1792,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "ヘルシーエンド",
@@ -1644,7 +1803,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "ロストワンの号哭",
@@ -1655,7 +1815,8 @@
     "lev_adv": "6",
     "lev_exp": "9",
     "lev_mas": "12",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "天ノ弱",
@@ -1665,7 +1826,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "吉原ラメント",
@@ -1675,7 +1837,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "生きてるおばけは生きている",
@@ -1685,7 +1848,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi"
   },
   {
     "title": "踊れオーケストラ",
@@ -1695,7 +1859,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "MURASAKi"
   },
   {
     "title": "赤心性：カマトト荒療治",
@@ -1705,7 +1870,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "イノコリ先生",
@@ -1715,7 +1881,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "ECHO",
@@ -1725,7 +1892,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "東京リアルワールド",
@@ -1735,7 +1903,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "M.S.S.Planet",
@@ -1745,7 +1914,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "不毛！",
@@ -1755,7 +1925,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE"
   },
   {
     "title": "ネトゲ廃人シュプレヒコール",
@@ -1765,7 +1936,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "StargazeR",
@@ -1775,7 +1947,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "みくみくにしてあげる♪【してやんよ】",
@@ -1785,7 +1958,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "ぽっぴっぽー",
@@ -1795,7 +1969,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "Nyan Cat EX",
@@ -1805,7 +1980,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "どうしてこうなった",
@@ -1815,7 +1991,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "magician's operation",
@@ -1825,7 +2002,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "教えて!! 魔法のLyric",
@@ -1835,7 +2013,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "おちゃめ機能",
@@ -1845,7 +2024,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "7",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "BAD∞END∞NIGHT",
@@ -1855,7 +2035,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "ロミオとシンデレラ",
@@ -1866,7 +2047,8 @@
     "lev_adv": "7+",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "ダンシング☆サムライ",
@@ -1876,7 +2058,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "ハロ／ハワユ",
@@ -1886,7 +2069,8 @@
     "lev_bas": "4",
     "lev_adv": "5",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "林檎華憐歌",
@@ -1896,7 +2080,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "ないせんのうた",
@@ -1906,7 +2091,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "木彫り鯰と右肩ゾンビ",
@@ -1916,7 +2102,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "デッドレッドガールズ",
@@ -1926,7 +2113,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "One Step Ahead",
@@ -1936,17 +2124,19 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "ORANGE"
   },
   {
     "title": "Link",
-    "artist": "Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)",
-    "category": "niconico＆VOCALOID",
-    "image_file": "e90f79d9dcff84df.png",
-    "lev_bas": "5",
+    "artist": "Clean Tears feat. Youna",
+    "category": "原创乐曲",
+    "image_file": "1e44516a8a3b5a51.png",
+    "lev_bas": "6",
     "lev_adv": "7",
-    "lev_exp": "7",
-    "lev_mas": "10+"
+    "lev_exp": "10+",
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "バッド・ダンス・ホール",
@@ -1956,7 +2146,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "共感覚おばけ",
@@ -1966,7 +2157,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "quiet room",
@@ -1976,7 +2168,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "ロールプレイングゲーム",
@@ -1986,7 +2179,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "FiNALE"
   },
   {
     "title": "すーぱーぬこになりたい",
@@ -1996,7 +2190,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "立ち入り禁止",
@@ -2007,7 +2202,8 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "CocktaiL",
@@ -2017,7 +2213,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "ナンセンス文学",
@@ -2027,7 +2224,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "お気に召すまま",
@@ -2038,7 +2236,8 @@
     "lev_adv": "7",
     "lev_exp": "8+",
     "lev_mas": "10",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "アウトサイダー",
@@ -2048,7 +2247,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "シャルル",
@@ -2062,7 +2262,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "10+"
+    "dx_lev_mas": "10+",
+    "version": "MiLK"
   },
   {
     "title": "ソリッド",
@@ -2072,7 +2273,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "Bad Apple!! feat.nomico (REDALiCE Remix)",
@@ -2082,7 +2284,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "Bad Apple!! feat nomico",
@@ -2093,7 +2296,8 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "GreeN"
   },
   {
     "title": "CYBER Sparks",
@@ -2104,7 +2308,8 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Money Money",
@@ -2114,7 +2319,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "LOVE EAST",
@@ -2124,7 +2330,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK PLUS"
   },
   {
     "title": "WARNING×WARNING×WARNING",
@@ -2138,7 +2345,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "MiLK"
   },
   {
     "title": "泡沫、哀のまほろば",
@@ -2148,7 +2356,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK"
   },
   {
     "title": "華鳥風月",
@@ -2158,7 +2367,8 @@
     "lev_bas": "3",
     "lev_adv": "5",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "色は匂へど散りぬるを",
@@ -2168,7 +2378,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "月に叢雲華に風",
@@ -2182,7 +2393,8 @@
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "ネクロファンタジア～Arr.Demetori",
@@ -2192,7 +2404,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "Doll Judgment",
@@ -2202,7 +2415,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "永遠のメロディ",
@@ -2212,7 +2426,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "MiLK"
   },
   {
     "title": "もうみんなしねばいいのに",
@@ -2222,7 +2437,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "宿題が終わらないっ！",
@@ -2232,7 +2448,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "東方スイーツ！～鬼畜姉妹と受難メイド～",
@@ -2242,7 +2459,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "taboo tears you up",
@@ -2252,7 +2470,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi"
   },
   {
     "title": "Starlight Vision",
@@ -2262,7 +2481,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "幽闇に目醒めしは",
@@ -2272,7 +2492,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "物凄い勢いでけーねが物凄いうた",
@@ -2282,7 +2503,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "進捗どうですか？",
@@ -2292,7 +2514,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "アマノジャクリバース feat. ｙｔｒ",
@@ -2302,7 +2525,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "天狗の落とし文 feat. ｙｔｒ",
@@ -2312,7 +2536,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK"
   },
   {
     "title": "オーディエンスを沸かす程度の能力 feat.タイツォン",
@@ -2322,7 +2547,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Club Ibuki in Break All",
@@ -2332,7 +2558,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi"
   },
   {
     "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
@@ -2346,7 +2573,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "チルノのパーフェクトさんすう教室",
@@ -2356,7 +2584,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
@@ -2371,7 +2600,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "究極焼肉レストラン！お燐の地獄亭！",
@@ -2381,7 +2611,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "ORANGE"
   },
   {
     "title": "お嫁にしなさいっ！",
@@ -2391,7 +2622,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "キャプテン・ムラサのケツアンカー",
@@ -2401,7 +2633,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "ひれ伏せ愚民どもっ！",
@@ -2411,7 +2644,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "げきオコスティックファイナリアリティぷんぷんマスタースパーク",
@@ -2421,7 +2655,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",
@@ -2431,7 +2666,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "不思議の国のクリスマス",
@@ -2441,7 +2677,8 @@
     "lev_bas": "4",
     "lev_adv": "5",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "INFINITE WORLD",
@@ -2451,7 +2688,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Grip & Break down !!",
@@ -2461,7 +2699,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "Cosmic Magic Shooter",
@@ -2471,7 +2710,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "しゅわスパ大作戦☆",
@@ -2481,7 +2721,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "全人類ノ非想天則",
@@ -2491,7 +2732,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "Endless, Sleepless Night",
@@ -2501,7 +2743,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "White Traveling Girl",
@@ -2511,7 +2754,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "No Routine",
@@ -2521,7 +2765,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Scream out! -maimai SONIC WASHER Edit-",
@@ -2535,7 +2780,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "隠然",
@@ -2546,7 +2792,8 @@
     "lev_adv": "7+",
     "lev_exp": "9+",
     "lev_mas": "11",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "みんなの",
@@ -2556,7 +2803,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK PLUS"
   },
   {
     "title": "幻想のサテライト",
@@ -2570,7 +2818,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "待チ人ハ来ズ。",
@@ -2580,7 +2829,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "響縁",
@@ -2590,7 +2840,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "囲い無き世は一期の月影",
@@ -2600,7 +2851,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "儚きもの人間",
@@ -2610,7 +2862,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "sweet little sister",
@@ -2620,7 +2873,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "ケロ⑨destiny",
@@ -2630,7 +2884,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "Phantasm Brigade",
@@ -2640,7 +2895,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "蒼空に舞え、墨染の桜",
@@ -2650,7 +2906,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "フラグメンツ -T.V. maimai edit-",
@@ -2660,7 +2917,8 @@
     "lev_bas": "4",
     "lev_adv": "5",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "PiNK"
   },
   {
     "title": "橙の幻想郷音頭",
@@ -2670,7 +2928,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "Starlight Dance Floor",
@@ -2680,7 +2939,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "神々の祈り",
@@ -2690,7 +2950,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "願いを呼ぶ季節",
@@ -2700,7 +2961,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "明星ロケット",
@@ -2711,7 +2973,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "ORANGE"
   },
   {
     "title": "緋色のDance",
@@ -2722,7 +2985,8 @@
     "lev_adv": "6",
     "lev_exp": "9",
     "lev_mas": "11+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "YU-MU",
@@ -2732,7 +2996,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "PiNK"
   },
   {
     "title": "エテルニタス・ルドロジー",
@@ -2742,7 +3007,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "エピクロスの虹はもう見えない",
@@ -2753,7 +3019,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "四次元跳躍機関",
@@ -2763,7 +3030,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "少女幻葬戦慄曲 ～ Necro Fantasia",
@@ -2773,7 +3041,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "妖精村の月誕祭 ～Lunate Elf",
@@ -2783,7 +3052,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Jimang Shot",
@@ -2793,7 +3063,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "ってゐ！ ～えいえんてゐVer～",
@@ -2804,7 +3075,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "東方妖々夢 ～the maximum moving about～",
@@ -2814,7 +3086,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "Yet Another ”drizzly rain”",
@@ -2824,7 +3097,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "シアワセうさぎ",
@@ -2834,7 +3108,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN PLUS"
   },
   {
     "title": "最速最高シャッターガール",
@@ -2844,7 +3119,8 @@
     "lev_bas": "3",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "最終鬼畜妹・一部声",
@@ -2854,7 +3130,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "ウサテイ",
@@ -2864,7 +3141,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN"
   },
   {
     "title": "クレイジークレイジーダンサーズ",
@@ -2875,7 +3153,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "Help me, ERINNNNNN!!",
@@ -2885,7 +3164,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN"
   },
   {
     "title": "ナイト・オブ・ナイツ (Cranky Remix)",
@@ -2895,7 +3175,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "ナイト・オブ・ナイツ",
@@ -2906,7 +3187,8 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "11+",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "GreeN"
   },
   {
     "title": "疾走あんさんぶる",
@@ -2916,7 +3198,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "サドマミホリック",
@@ -2927,7 +3210,8 @@
     "lev_adv": "7+",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "最終鬼畜妹フランドール・S",
@@ -2938,7 +3222,8 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-",
@@ -2948,7 +3233,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Little \"Sister\" Bitch",
@@ -2958,7 +3244,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "Yakumo >>JOINT STRUGGLE (2019 Update)",
@@ -2968,7 +3255,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "Imperishable Night 2006 (2016 Refine)",
@@ -2978,7 +3266,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "Calamity Fortune",
@@ -2992,7 +3281,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "BATTLE NO.1",
@@ -3002,7 +3292,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "12",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "Black Lair",
@@ -3012,7 +3303,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "FLOWER",
@@ -3022,7 +3314,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE"
   },
   {
     "title": "Scars of FAUNA",
@@ -3032,7 +3325,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE"
   },
   {
     "title": "極圏",
@@ -3042,7 +3336,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "FiNALE"
   },
   {
     "title": "きたさいたま2000",
@@ -3052,7 +3347,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE"
   },
   {
     "title": "Ignis Danse",
@@ -3062,7 +3358,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE"
   },
   {
     "title": "夜明けまであと３秒",
@@ -3072,7 +3369,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "セイクリッド　ルイン",
@@ -3082,7 +3380,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "Got more raves？",
@@ -3092,7 +3391,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE"
   },
   {
     "title": "FUJIN Rumble",
@@ -3102,7 +3402,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE"
   },
   {
     "title": "Scarlet Lance",
@@ -3112,7 +3413,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "FiNALE"
   },
   {
     "title": "プナイプナイせんそう",
@@ -3122,7 +3424,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "Halcyon",
@@ -3132,7 +3435,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "8",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "サンバランド",
@@ -3142,7 +3446,8 @@
     "dx_lev_bas": "2",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "End Time",
@@ -3152,7 +3457,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "Altale",
@@ -3162,7 +3468,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "Destr0yer",
@@ -3172,7 +3479,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "L4TS:2018 (feat. あひる & KTA)",
@@ -3182,7 +3490,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "B.M.S.",
@@ -3192,7 +3501,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "FiNALE"
   },
   {
     "title": "ENERGY SYNERGY MATRIX",
@@ -3206,7 +3516,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "FREEDOM DiVE (tpz Overcute Remix)",
@@ -3216,7 +3527,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Brain Power",
@@ -3226,7 +3538,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Credits",
@@ -3236,7 +3549,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK"
   },
   {
     "title": "MilK",
@@ -3246,7 +3560,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "ULTRA B+K",
@@ -3256,7 +3571,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "GO BACK 2 YOUR RAVE",
@@ -3266,7 +3582,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "B.B.K.K.B.K.K.",
@@ -3276,7 +3593,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE"
   },
   {
     "title": "魔法少女になるしかねぇ",
@@ -3286,7 +3604,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "人里に下ったアタイがいつの間にか社畜になっていた件",
@@ -3296,7 +3615,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Maxi",
@@ -3306,7 +3626,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "KISS CANDY FLAVOR",
@@ -3316,7 +3637,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "conflict",
@@ -3330,7 +3652,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "EVERGREEN",
@@ -3340,7 +3663,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "Party 4U ”holy nite mix”",
@@ -3350,7 +3674,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "GOODMEN",
@@ -3360,7 +3685,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi"
   },
   {
     "title": "Sakura Fubuki",
@@ -3370,7 +3696,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "METATRON",
@@ -3380,7 +3707,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "オモイヨシノ",
@@ -3390,7 +3718,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "L9",
@@ -3400,7 +3729,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "Good Bye, Mr. Jack",
@@ -3410,7 +3740,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "麒麟",
@@ -3420,7 +3751,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK"
   },
   {
     "title": "Jack-the-Ripper◆",
@@ -3430,7 +3762,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "DRAGONLADY",
@@ -3440,7 +3773,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "レッツゴー!陰陽師",
@@ -3450,7 +3784,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "オパ! オパ! RACER -GMT mashup-",
@@ -3460,7 +3795,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-",
@@ -3470,7 +3806,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "リッジでリッジでGO!GO!GO! -GMT mashup-",
@@ -3480,7 +3817,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "電車で電車でGO!GO!GO!GC! -GMT remix-",
@@ -3490,7 +3828,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "RIDGE RACER STEPS -GMT remix-",
@@ -3500,7 +3839,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "ファンタジーゾーン OPA-OPA! -GMT remix-",
@@ -3510,7 +3850,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "DADDY MULK -Groove remix-",
@@ -3520,7 +3861,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "デコボコ体操第二",
@@ -3530,7 +3872,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "9"
+    "lev_mas": "9",
+    "version": "maimai PLUS"
   },
   {
     "title": "Let's Go Away",
@@ -3540,7 +3883,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Conquista Ciela",
@@ -3550,7 +3894,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Fist Bump",
@@ -3560,7 +3905,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Reach For The Stars",
@@ -3570,7 +3916,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "maimai"
   },
   {
     "title": "Live & Learn",
@@ -3580,7 +3927,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Back 2 Back",
@@ -3590,7 +3938,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Windy Hill -Zone 1",
@@ -3600,7 +3949,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "City Escape: Act1",
@@ -3611,7 +3961,8 @@
     "lev_adv": "5",
     "lev_exp": "8",
     "lev_mas": "11",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai"
   },
   {
     "title": "Rooftop Run: Act1",
@@ -3622,7 +3973,8 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "10",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "maimai"
   },
   {
     "title": "終わりなき物語",
@@ -3632,7 +3984,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Our Fighting",
@@ -3642,7 +3995,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "Save This World νMIX",
@@ -3653,7 +4007,8 @@
     "lev_adv": "7",
     "lev_exp": "8+",
     "lev_mas": "11+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "Living Universe",
@@ -3664,7 +4019,8 @@
     "lev_adv": "7",
     "lev_exp": "8+",
     "lev_mas": "10",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "Ignite Infinity",
@@ -3674,17 +4030,19 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "Garden Of The Dragon",
     "artist": "Kai「Wonderland Wars」",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "31a6e74fc82a0af4.png",
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "時空を超えて久しぶり！",
@@ -3694,7 +4052,8 @@
     "lev_bas": "3",
     "lev_adv": "5",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "Her Dream Is To Be A Fantastic Sorceress",
@@ -3704,7 +4063,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN"
   },
   {
     "title": "キズナの物語",
@@ -3714,7 +4074,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "STAIRWAY TO GENERATION",
@@ -3724,7 +4085,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "Last Brave ～ Go to zero",
@@ -3734,7 +4096,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "Urban Crusher [Remix]",
@@ -3744,7 +4107,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai"
   },
   {
     "title": "Catch The Future",
@@ -3754,7 +4118,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai"
   },
   {
     "title": "awake",
@@ -3764,7 +4129,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "Terminal Storm",
@@ -3774,7 +4140,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "After Burner",
@@ -3784,7 +4151,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "Space Harrier Main Theme [Reborn]",
@@ -3794,7 +4162,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Quartet Theme [Reborn]",
@@ -3804,7 +4173,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "Sky High [Reborn]",
@@ -3814,7 +4184,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "Like the Wind [Reborn]",
@@ -3824,7 +4195,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "9+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "maimai PLUS"
   },
   {
     "title": "YA･DA･YO [Reborn]",
@@ -3834,7 +4206,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "11",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "Crush On You",
@@ -3845,7 +4218,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "maimai"
   },
   {
     "title": "Sun Dance",
@@ -3856,7 +4230,8 @@
     "lev_adv": "6",
     "lev_exp": "7+",
     "lev_mas": "9",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "maimai"
   },
   {
     "title": "In Chaos",
@@ -3867,18 +4242,20 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "10+",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "maimai"
   },
   {
     "title": "Beat Of Mind",
     "artist": "Hiro「Crackin’DJ」",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "2aea2c2fbd7c0b2a.png",
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
     "lev_mas": "10",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "maimai"
   },
   {
     "title": "Natural Flow",
@@ -3888,7 +4265,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai PLUS"
   },
   {
     "title": "JACKY [Remix]",
@@ -3898,7 +4276,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai"
   },
   {
     "title": "Mysterious Destiny",
@@ -3908,7 +4287,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "Riders Of The Light",
@@ -3918,7 +4298,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "GreeN"
   },
   {
     "title": "コトバ・カラフル",
@@ -3928,7 +4309,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "天国と地獄",
@@ -3938,7 +4320,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai"
   },
   {
     "title": "きみのためなら死ねる",
@@ -3948,7 +4331,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "The Great Journey",
@@ -3958,7 +4342,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "ORANGE"
   },
   {
     "title": "Burning Hearts ～炎のANGEL～",
@@ -3969,7 +4354,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "10",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "GreeN"
   },
   {
     "title": "かせげ！ジャリンコヒーロー",
@@ -3979,7 +4365,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "ココロスキャンのうた",
@@ -3989,7 +4376,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "超絶！Superlative",
@@ -3999,7 +4387,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "采配の刻 Power of order",
@@ -4009,7 +4398,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "DO RORO DERODERO ON DO RORO",
@@ -4019,7 +4409,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "源平大戦絵巻テーマソング",
@@ -4029,27 +4420,30 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai"
   },
   {
     "title": "怪盗Rのテーマ",
     "artist": "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "7164862f8378206f.png",
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai"
   },
   {
     "title": "マリアをはげませ",
     "artist": "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "3cdf01424c744832.png",
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "SHOW TIME",
@@ -4059,7 +4453,8 @@
     "lev_bas": "4",
     "lev_adv": "5",
     "lev_exp": "7+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "円舞曲、君に",
@@ -4069,7 +4464,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "御旗のもとに",
@@ -4079,7 +4475,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "地上の戦士",
@@ -4089,7 +4486,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "檄！帝国華撃団(改)",
@@ -4100,7 +4498,8 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "8+",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai"
   },
   {
     "title": "Outlaw's Lullaby",
@@ -4110,7 +4509,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Brand-new Japanesque",
@@ -4120,7 +4520,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "鼓動",
@@ -4130,7 +4531,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "神室雪月花",
@@ -4140,7 +4542,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "KONNANじゃないっ！",
@@ -4150,7 +4553,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "7",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "セガサターン起動音[H.][Remix]",
@@ -4160,7 +4564,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "ヤミツキ",
@@ -4170,7 +4575,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "Secret Sleuth",
@@ -4180,7 +4586,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "BLACK ROSE",
@@ -4190,7 +4597,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "言ノ葉カルマ",
@@ -4200,7 +4608,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "悪戯",
@@ -4210,7 +4619,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "言ノ葉遊戯",
@@ -4220,7 +4630,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "PiNK"
   },
   {
     "title": "りばーぶ",
@@ -4230,7 +4641,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "PiNK"
   },
   {
     "title": "洗脳",
@@ -4241,7 +4653,8 @@
     "lev_adv": "6",
     "lev_exp": "9",
     "lev_mas": "10",
-    "lev_remas": "10+"
+    "lev_remas": "10+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Barbed Eye",
@@ -4251,7 +4664,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "空威張りビヘイビア",
@@ -4261,7 +4675,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "分からない",
@@ -4271,7 +4686,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "天国と地獄 -言ノ葉リンネ-",
@@ -4281,7 +4697,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "相思創愛",
@@ -4291,7 +4708,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "咲キ誇レ常世ノ華",
@@ -4301,7 +4719,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Valsqotch",
@@ -4311,7 +4730,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8+",
     "dx_lev_exp": "12",
-    "dx_lev_mas": "13+"
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX"
   },
   {
     "title": "UniTas",
@@ -4321,7 +4741,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "13+"
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX"
   },
   {
     "title": "モ°ルモ°ル",
@@ -4331,7 +4752,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "ここからはじまるプロローグ。",
@@ -4341,7 +4763,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "絡めトリック利己ライザー",
@@ -4351,7 +4774,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "アポカリプスに反逆の焔を焚べろ",
@@ -4361,7 +4785,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
-    "dx_lev_mas": "13+"
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX"
   },
   {
     "title": "TEmPTaTiON",
@@ -4371,7 +4796,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
-    "dx_lev_mas": "13+"
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX"
   },
   {
     "title": "Now or Never",
@@ -4381,7 +4807,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "福宿音屋魂音泉",
@@ -4391,7 +4818,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "キリキリ舞Mine",
@@ -4401,7 +4829,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "一か罰",
@@ -4411,7 +4840,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "♡マイマイマイラブ♡",
@@ -4421,7 +4851,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "Blows Up Everything",
@@ -4432,7 +4863,8 @@
     "dx_lev_adv": "9",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13",
-    "dx_lev_remas": "13+"
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX"
   },
   {
     "title": "TwisteD! XD",
@@ -4442,7 +4874,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "魔ジョ狩リ",
@@ -4452,7 +4885,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "Technicians High",
@@ -4462,7 +4896,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "Scarlet Wings",
@@ -4472,7 +4907,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "STEREOSCAPE",
@@ -4482,7 +4918,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "Crazy Circle",
@@ -4492,7 +4929,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "バーチャルダム　ネーション",
@@ -4502,7 +4940,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "8",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "MAXRAGE",
@@ -4512,7 +4951,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "P-qoq",
@@ -4522,7 +4962,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "超常マイマイン",
@@ -4532,7 +4973,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "でらっくmaimai♪てんてこまい!",
@@ -4542,7 +4984,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "舞萌DX"
   },
   {
     "title": "SILENT BLUE",
@@ -4552,7 +4995,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "雷切-RAIKIRI-",
@@ -4563,18 +5007,20 @@
     "lev_adv": "8",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "花と、雪と、ドラムンベース。",
     "artist": "kanone feat. せんざい",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "52e9a79b5e6a2ef5.png",
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "12+"
+    "lev_remas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Ragnarok",
@@ -4584,7 +5030,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "larva",
@@ -4594,7 +5041,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "keep hopping",
@@ -4604,7 +5052,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "FestivaLight",
@@ -4614,7 +5063,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Excalibur ～Revived resolution～",
@@ -4624,7 +5074,8 @@
     "lev_bas": "6",
     "lev_adv": "9",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "MiLK"
   },
   {
     "title": "Caliburne ～Story of the Legendary sword～",
@@ -4634,7 +5085,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE"
   },
   {
     "title": "Justified",
@@ -4644,7 +5096,8 @@
     "lev_bas": "4",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "Mare Maris",
@@ -4654,7 +5107,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK"
   },
   {
     "title": "Candy Tall Woman",
@@ -4664,7 +5118,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Kinda Way",
@@ -4674,7 +5129,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Signature",
@@ -4684,7 +5140,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Magical Flavor",
@@ -4694,7 +5151,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "デスパレイト",
@@ -4704,7 +5162,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Moon of Noon",
@@ -4714,7 +5173,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Ultranova",
@@ -4724,7 +5184,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "曖昧mind",
@@ -4734,7 +5195,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Limit Break",
@@ -4744,7 +5206,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "オトヒメモリー☆ウタゲーション",
@@ -4754,7 +5217,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "夢花火",
@@ -4764,7 +5228,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "いっしそう電☆舞舞神拳！",
@@ -4774,7 +5239,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "FFT",
@@ -4785,7 +5251,8 @@
     "lev_adv": "8+",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "Panopticon",
@@ -4796,7 +5263,8 @@
     "lev_adv": "8+",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "MURASAKi"
   },
   {
     "title": "四月の雨",
@@ -4806,7 +5274,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
@@ -4816,7 +5285,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MURASAKi"
   },
   {
     "title": "Imitation:Loud Lounge",
@@ -4826,7 +5296,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "HERA",
@@ -4836,7 +5307,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MURASAKi"
   },
   {
     "title": "Selector",
@@ -4846,7 +5318,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "Alea jacta est!",
@@ -4857,7 +5330,8 @@
     "lev_adv": "8+",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "AMAZING MIGHTYYYY!!!!",
@@ -4868,7 +5342,8 @@
     "lev_adv": "9",
     "lev_exp": "12",
     "lev_mas": "13",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "PiNK PLUS"
   },
   {
     "title": "CITRUS MONSTER",
@@ -4878,7 +5353,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Hyper Active",
@@ -4888,7 +5364,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Jumble Rumble",
@@ -4898,7 +5375,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Nitrous Fury",
@@ -4908,7 +5386,8 @@
     "lev_bas": "6",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Revive The Rave",
@@ -4918,7 +5397,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "GEMINI -M-",
@@ -4928,7 +5408,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK"
   },
   {
     "title": "スリップフリップ",
@@ -4938,7 +5419,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "天火明命",
@@ -4948,7 +5430,8 @@
     "lev_bas": "5",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "7thSense",
@@ -4958,18 +5441,20 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "PiNK"
   },
   {
     "title": "PANDORA PARADOXXX",
     "artist": "削除",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "35b2760a42a8eebe.png",
     "lev_bas": "7+",
     "lev_adv": "10+",
     "lev_exp": "12+",
     "lev_mas": "13+",
-    "lev_remas": "14"
+    "lev_remas": "14",
+    "version": "FiNALE"
   },
   {
     "title": "Lividi",
@@ -4979,7 +5464,8 @@
     "lev_bas": "5",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "Axeria",
@@ -4989,7 +5475,8 @@
     "lev_bas": "6",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "the EmpErroR",
@@ -5000,7 +5487,8 @@
     "lev_adv": "9+",
     "lev_exp": "12",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "ガラテアの螺旋",
@@ -5011,7 +5499,8 @@
     "lev_adv": "8",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "QZKago Requiem",
@@ -5022,7 +5511,8 @@
     "lev_adv": "9+",
     "lev_exp": "11+",
     "lev_mas": "13+",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "Our Wrenally",
@@ -5032,7 +5522,8 @@
     "lev_bas": "6",
     "lev_adv": "9",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "MURASAKi"
   },
   {
     "title": "Contrapasso -paradiso-",
@@ -5042,7 +5533,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Oshama Scramble!",
@@ -5056,7 +5548,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "8+",
     "dx_lev_exp": "11",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "Garakuta Doll Play",
@@ -5067,7 +5560,8 @@
     "lev_adv": "8",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "GreeN"
   },
   {
     "title": "Blew Moon",
@@ -5078,7 +5572,8 @@
     "lev_adv": "8",
     "lev_exp": "10",
     "lev_mas": "11+",
-    "lev_remas": "11+"
+    "lev_remas": "11+",
+    "version": "GreeN"
   },
   {
     "title": "We Gonna Party",
@@ -5088,7 +5583,8 @@
     "lev_bas": "6",
     "lev_adv": "7+",
     "lev_exp": "11",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "MYTHOS",
@@ -5098,7 +5594,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Life Feels Good",
@@ -5108,7 +5605,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Glorious Crown",
@@ -5118,7 +5616,8 @@
     "lev_bas": "6",
     "lev_adv": "9+",
     "lev_exp": "11",
-    "lev_mas": "13+"
+    "lev_mas": "13+",
+    "version": "PiNK"
   },
   {
     "title": "Aiolos",
@@ -5128,7 +5627,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "LANCE",
@@ -5138,7 +5638,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "Dragoon",
@@ -5148,7 +5649,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "Death Scythe",
@@ -5158,7 +5660,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "LUCIA",
@@ -5168,7 +5671,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "D✪N’T ST✪P R✪CKIN’",
@@ -5178,7 +5682,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "oboro",
@@ -5188,7 +5693,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "ORANGE"
   },
   {
     "title": "CYCLES",
@@ -5198,7 +5704,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Lionheart",
@@ -5208,7 +5715,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Heartbeats",
@@ -5218,7 +5726,8 @@
     "lev_bas": "4",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Acceleration",
@@ -5228,7 +5737,8 @@
     "lev_bas": "6",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "End of Twilight",
@@ -5238,7 +5748,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "JUMPIN' JUMPIN'",
@@ -5248,7 +5759,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "L'épilogue",
@@ -5258,7 +5770,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "FEEL ALIVE",
@@ -5268,7 +5781,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "FEEL the BEATS",
@@ -5278,7 +5792,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "BREAK YOU!!",
@@ -5288,7 +5803,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "KING is BACK!!",
@@ -5298,7 +5814,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "Streak",
@@ -5308,7 +5825,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Spin me harder",
@@ -5318,7 +5836,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Turn around",
@@ -5328,7 +5847,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "11+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "SPILL OVER COLORS",
@@ -5338,7 +5858,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Schwarzschild",
@@ -5349,7 +5870,8 @@
     "lev_adv": "8+",
     "lev_exp": "11",
     "lev_mas": "13",
-    "lev_remas": "13+"
+    "lev_remas": "13+",
+    "version": "FiNALE"
   },
   {
     "title": "Black Out",
@@ -5359,7 +5881,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "11",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "Fragrance",
@@ -5370,7 +5893,8 @@
     "lev_adv": "8",
     "lev_exp": "11+",
     "lev_mas": "13",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "maimai PLUS"
   },
   {
     "title": "Nerverakes",
@@ -5380,7 +5904,8 @@
     "lev_bas": "6",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "maimai PLUS"
   },
   {
     "title": "Sprintrances",
@@ -5390,7 +5915,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "air's gravity",
@@ -5400,7 +5926,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Night Fly",
@@ -5410,7 +5937,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "Feel My Fire",
@@ -5420,7 +5948,8 @@
     "lev_bas": "4",
     "lev_adv": "8",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "Starlight Disco",
@@ -5431,7 +5960,8 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "10",
-    "lev_remas": "11"
+    "lev_remas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "ENJOY POLIS",
@@ -5441,7 +5971,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "記憶、記録",
@@ -5451,17 +5982,19 @@
     "lev_bas": "4",
     "lev_adv": "8",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "connecting with you",
     "artist": "Takahiro Eguchi feat. 三澤秋",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "731371df3ac09a9c.png",
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "アージェントシンメトリー",
@@ -5471,7 +6004,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK"
   },
   {
     "title": "Dreampainter",
@@ -5481,7 +6015,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "ORANGE"
   },
   {
     "title": "Monochrome Rainbow",
@@ -5491,7 +6026,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Beat of getting entangled",
@@ -5501,7 +6037,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "MIRROR of MAGIC",
@@ -5511,7 +6048,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "ORANGE"
   },
   {
     "title": "Cosmic Train",
@@ -5521,7 +6059,8 @@
     "lev_bas": "4",
     "lev_adv": "5",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN"
   },
   {
     "title": "Believe the Rainbow",
@@ -5531,7 +6070,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "高気圧ねこロック",
@@ -5541,7 +6081,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "Prophesy One",
@@ -5551,7 +6092,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "PiNK PLUS"
   },
   {
     "title": "BETTER CHOICE",
@@ -5561,7 +6103,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "ORANGE"
   },
   {
     "title": "Get Happy",
@@ -5571,7 +6114,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "10+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "System “Z”",
@@ -5581,7 +6125,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "GreeN"
   },
   {
     "title": "ユビキリ",
@@ -5591,7 +6136,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "火炎地獄",
@@ -5601,7 +6147,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Danza zandA",
@@ -5612,7 +6159,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "12",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "planet dancer",
@@ -5622,7 +6170,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "ORANGE"
   },
   {
     "title": "ナミダと流星",
@@ -5632,7 +6181,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "ピーマンたべたら",
@@ -5642,7 +6192,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "ORANGE"
   },
   {
     "title": "maimaiちゃんのテーマ",
@@ -5652,7 +6203,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "Pixel Voyage",
@@ -5662,7 +6214,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "maiム・maiム feat.週刊少年マガジン",
@@ -5672,7 +6225,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "タカハせ！名人マン",
@@ -5682,7 +6236,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN PLUS"
   },
   {
     "title": "みんなのマイマイマー",
@@ -5692,7 +6247,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "GreeN"
   },
   {
     "title": "welcome to maimai!! with マイマイマー",
@@ -5702,7 +6258,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "ぐるぐるWASH！コインランドリー・ディスコ",
@@ -5712,7 +6269,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "GreeN PLUS"
   },
   {
     "title": "Sweets×Sweets",
@@ -5722,7 +6280,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "虹と太陽",
@@ -5732,7 +6291,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai"
   },
   {
     "title": "Color My World",
@@ -5742,7 +6302,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "True Love Song",
@@ -5752,7 +6313,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "9+"
+    "lev_mas": "9+",
+    "version": "maimai"
   },
   {
     "title": "ソーラン☆節",
@@ -5762,7 +6324,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai PLUS"
   },
   {
     "title": "おても☆Yan",
@@ -5772,7 +6335,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "ORANGE"
   },
   {
     "title": "炭★坑★節",
@@ -5782,7 +6346,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "maimai"
   },
   {
     "title": "ネコ日和。",
@@ -5792,7 +6357,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "7",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "犬日和。",
@@ -5802,7 +6368,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai PLUS"
   },
   {
     "title": "Endless World",
@@ -5813,7 +6380,8 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "10+",
-    "lev_remas": "12"
+    "lev_remas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "Backyun! －悪い女－",
@@ -5823,7 +6391,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "GreeN"
   },
   {
     "title": "BaBan!! －甘い罠－",
@@ -5833,7 +6402,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "オレンジの夏",
@@ -5843,7 +6413,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8+",
-    "lev_mas": "10"
+    "lev_mas": "10",
+    "version": "maimai"
   },
   {
     "title": "ぴぴぱぷぅ！",
@@ -5853,7 +6424,8 @@
     "lev_bas": "3",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "maimai PLUS"
   },
   {
     "title": "炎歌 -ほむらうた-",
@@ -5863,7 +6435,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "maimai PLUS"
   },
   {
     "title": "泣き虫O'clock",
@@ -5873,7 +6446,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "maimai PLUS"
   },
   {
     "title": "ジングルベル",
@@ -5884,7 +6458,8 @@
     "lev_adv": "7",
     "lev_exp": "9",
     "lev_mas": "13",
-    "lev_remas": "13"
+    "lev_remas": "13",
+    "version": "maimai"
   },
   {
     "title": "VERTeX",
@@ -5894,7 +6469,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "ORANGE"
   },
   {
     "title": "STARTLINER",
@@ -5904,7 +6480,8 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
     "dx_lev_exp": "8+",
-    "dx_lev_mas": "11"
+    "dx_lev_mas": "11",
+    "version": "舞萌DX"
   },
   {
     "title": "Jump!! Jump!! Jump!!",
@@ -5914,7 +6491,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "Titania",
@@ -5924,7 +6502,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "Change Our MIRAI！",
@@ -5938,7 +6517,8 @@
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12"
+    "dx_lev_mas": "12",
+    "version": "ORANGE PLUS"
   },
   {
     "title": "無敵We are one!!",
@@ -5948,17 +6528,19 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "8+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "ドキドキDREAM!!!",
     "artist": "イロドリミドリ「CHUNITHM」",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "183c72809f3e8984.png",
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MURASAKi"
   },
   {
     "title": "Still",
@@ -5968,7 +6550,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Session High⤴",
@@ -5978,7 +6561,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Agitation！",
@@ -5988,7 +6572,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
-    "dx_lev_mas": "11+"
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX"
   },
   {
     "title": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",
@@ -5998,7 +6583,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "ハート・ビート",
@@ -6008,7 +6594,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "brilliant better",
@@ -6018,7 +6605,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "9+",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "フォルテシモBELL",
@@ -6028,7 +6616,8 @@
     "lev_bas": "3",
     "lev_adv": "6",
     "lev_exp": "7+",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "DETARAME ROCK&ROLL THEORY",
@@ -6038,7 +6627,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
@@ -6048,7 +6638,8 @@
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi"
   },
   {
     "title": "猛進ソリストライフ！",
@@ -6058,7 +6649,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "My Dearest Song",
@@ -6068,7 +6660,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "SPICY SWINGY STYLE",
@@ -6078,7 +6671,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Bang Babang Bang!!!",
@@ -6088,7 +6682,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "Tic Tac DREAMIN’",
@@ -6098,7 +6693,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MiLK"
   },
   {
     "title": "猫祭り",
@@ -6108,7 +6704,8 @@
     "lev_bas": "4",
     "lev_adv": "7+",
     "lev_exp": "10",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "TRUST",
@@ -6118,7 +6715,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK"
   },
   {
     "title": "奏者はただ背中と提琴で語るのみ",
@@ -6128,7 +6726,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "イロトリドリのメロディ",
@@ -6138,7 +6737,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "FiNALE"
   },
   {
     "title": "-OutsideR:RequieM-",
@@ -6148,7 +6748,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "FiNALE"
   },
   {
     "title": "あねぺったん",
@@ -6158,7 +6759,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "なるとなぎのパーフェクトロックンロール教室",
@@ -6168,7 +6770,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Help me, あーりん！",
@@ -6178,7 +6781,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Counselor",
@@ -6188,7 +6792,8 @@
     "lev_bas": "4",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "10+"
+    "lev_mas": "10+",
+    "version": "PiNK"
   },
   {
     "title": "閃鋼のブリューナク",
@@ -6198,17 +6803,19 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "PiNK"
   },
   {
     "title": "Infantoon Fantasy",
     "artist": "t+pazolite",
-    "category": "综艺节目",
+    "category": "原创乐曲",
     "image_file": "9bcb0c4d4dc8657b.png",
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "PiNK PLUS"
   },
   {
     "title": "幾四音-Ixion-",
@@ -6218,7 +6825,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "9",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK"
   },
   {
     "title": "Invitation",
@@ -6228,7 +6836,8 @@
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "8",
-    "lev_mas": "11+"
+    "lev_mas": "11+",
+    "version": "PiNK PLUS"
   },
   {
     "title": "その群青が愛しかったようだった",
@@ -6238,7 +6847,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "11"
+    "lev_mas": "11",
+    "version": "MURASAKi"
   },
   {
     "title": "The wheel to the right",
@@ -6248,7 +6858,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MURASAKi"
   },
   {
     "title": "光線チューニング",
@@ -6258,7 +6869,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9+",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "心象蜃気楼",
@@ -6268,7 +6880,8 @@
     "lev_bas": "5",
     "lev_adv": "7",
     "lev_exp": "9",
-    "lev_mas": "12"
+    "lev_mas": "12",
+    "version": "MURASAKi PLUS"
   },
   {
     "title": "エンドマークに希望と涙を添えて",
@@ -6278,7 +6891,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK"
   },
   {
     "title": "World Vanquisher",
@@ -6288,7 +6902,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "Xevel",
@@ -6298,7 +6913,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "We Gonna Journey",
@@ -6308,7 +6924,8 @@
     "lev_bas": "6",
     "lev_adv": "8",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "My First Phone",
@@ -6318,7 +6935,8 @@
     "lev_bas": "5",
     "lev_adv": "7+",
     "lev_exp": "10+",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "MiLK PLUS"
   },
   {
     "title": "怒槌",
@@ -6328,7 +6946,8 @@
     "lev_bas": "6",
     "lev_adv": "8+",
     "lev_exp": "11+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "MiLK PLUS"
   },
   {
     "title": "TiamaT:F minor",
@@ -6338,7 +6957,8 @@
     "lev_bas": "6",
     "lev_adv": "9",
     "lev_exp": "11+",
-    "lev_mas": "13"
+    "lev_mas": "13",
+    "version": "FiNALE"
   },
   {
     "title": "Kattobi KEIKYU Rider",
@@ -6348,7 +6968,8 @@
     "lev_bas": "5",
     "lev_adv": "8",
     "lev_exp": "11",
-    "lev_mas": "12+"
+    "lev_mas": "12+",
+    "version": "FiNALE"
   },
   {
     "title": "玩具狂奏曲 -終焉-",
@@ -6358,7 +6979,8 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "12",
-    "dx_lev_mas": "13"
+    "dx_lev_mas": "13",
+    "version": "舞萌DX"
   },
   {
     "title": "BOKUTO",
@@ -6368,7 +6990,8 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   },
   {
     "title": "立川浄穢捕物帳",
@@ -6378,6 +7001,7 @@
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
-    "dx_lev_mas": "12+"
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX"
   }
 ]

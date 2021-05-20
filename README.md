@@ -1,7 +1,7 @@
 # maimaiDX-CN-songs-database
 QQ群BOT随机roll歌功能用，舞萌DX国服歌曲数据库  
 数据抓取自国服舞萌DX微信公众号maimaiNET  
-最后更新：2021年04月29日 (已更新至舞萌DX 2021)
+最后更新：2021年05月20日 (版本: **Ver.CH1.11-A**)
 
 ## 字段说明
 - `image_file`: 封面文件, 前面加上 `https://maimai.wahlap.com/maimai-mobile/img/Music/` 即为官方的封面图片访问链接 (也对应`cover`文件夹里的图片文件)

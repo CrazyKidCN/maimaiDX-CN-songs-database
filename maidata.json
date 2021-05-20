@@ -86,7 +86,11 @@
     "lev_adv": "6",
     "lev_exp": "8",
     "lev_mas": "11",
-    "version": "GreeN"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
   },
   {
     "title": "コネクト",
@@ -97,7 +101,12 @@
     "lev_adv": "7",
     "lev_exp": "8",
     "lev_mas": "11+",
-    "version": "maimai"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "12+",
+    "version": "舞萌DX 2021"
   },
   {
     "title": "真・ハンサム体操でズンドコホイ",
@@ -3117,7 +3126,7 @@
     "dx_lev_bas": "6",
     "dx_lev_adv": "8",
     "dx_lev_exp": "12",
-    "dx_lev_mas": "13",
+    "dx_lev_mas": "14+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6852,25 +6861,14 @@
     "version": "MiLK"
   },
   {
-    "title": "Ievan Polkka",
-    "artist": "Otomania feat. 初音ミク",
-    "category": "niconico＆VOCALOID",
-    "image_file": "a32046ad3982150f.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "11",
-    "lev_mas": "13",
-    "version": "MiLK PLUS"
-  },
-  {
     "title": "だから僕は音楽を辞めた",
     "artist": "ヨルシカ",
     "category": "流行&动漫",
     "image_file": "7f05ec00857e0440.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "8+",
-    "lev_mas": "12",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -6878,11 +6876,11 @@
     "artist": "ハムちゃんず [covered by 光吉猛修]",
     "category": "流行&动漫",
     "image_file": "1b3fd58d6ebade7c.png",
-    "lev_bas": "1",
-    "lev_adv": "5",
-    "lev_exp": "8",
-    "lev_mas": "11+",
-    "lev_remas": "12+",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "5",
+    "dx_lev_exp": "8",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6890,10 +6888,10 @@
     "artist": "fhána",
     "category": "流行&动漫",
     "image_file": "d143b97d5593f73a.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -6901,10 +6899,10 @@
     "artist": "まふまふ",
     "category": "niconico＆VOCALOID",
     "image_file": "c16bd3250dcfc965.png",
-    "lev_bas": "4",
-    "lev_adv": "7",
-    "lev_exp": "10",
-    "lev_mas": "13",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
   },
   {
@@ -6912,10 +6910,10 @@
     "artist": "livetune",
     "category": "niconico＆VOCALOID",
     "image_file": "c0ee4895feacba46.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -6923,10 +6921,10 @@
     "artist": "M.S.S Project",
     "category": "niconico＆VOCALOID",
     "image_file": "6e2e4e3b67513e89.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -6934,10 +6932,10 @@
     "artist": "田中Ｂ",
     "category": "niconico＆VOCALOID",
     "image_file": "5cb9cdf0b07e1366.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "10",
-    "lev_mas": "12+",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6945,10 +6943,10 @@
     "artist": "すりぃ",
     "category": "niconico＆VOCALOID",
     "image_file": "71c12dd507e2374e.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12+",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6956,10 +6954,10 @@
     "artist": "A-One",
     "category": "东方Project",
     "image_file": "368560be7e7e0a2b.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12+",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6967,10 +6965,10 @@
     "artist": "暁Records",
     "category": "东方Project",
     "image_file": "e15c6bedf799b014.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -6978,10 +6976,10 @@
     "artist": "森羅万象",
     "category": "东方Project",
     "image_file": "725959f88eaa2fe5.png",
-    "lev_bas": "5",
-    "lev_adv": "7",
-    "lev_exp": "10",
-    "lev_mas": "12+",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -6989,10 +6987,10 @@
     "artist": "Syrufit + HDLV",
     "category": "东方Project",
     "image_file": "fe085689bd924d74.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9",
-    "lev_mas": "12+",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -7000,10 +6998,10 @@
     "artist": "Liz Triangle",
     "category": "东方Project",
     "image_file": "7582837c14343f0a.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9",
-    "lev_mas": "12",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
     "version": "舞萌DX 2021"
   },
   {
@@ -7011,10 +7009,10 @@
     "artist": "syudou",
     "category": "舞萌",
     "image_file": "88fd634bc9103eca.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "13",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
   },
   {
@@ -7022,10 +7020,10 @@
     "artist": "Maozon",
     "category": "舞萌",
     "image_file": "869b30cfdcb643f7.png",
-    "lev_bas": "3",
-    "lev_adv": "7+",
-    "lev_exp": "10+",
-    "lev_mas": "12+",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2021"
   },
   {
@@ -7033,10 +7031,10 @@
     "artist": "Yooh",
     "category": "舞萌",
     "image_file": "d84cebbe82687a4b.png",
-    "lev_bas": "5",
-    "lev_adv": "7+",
-    "lev_exp": "11",
-    "lev_mas": "13",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
   },
   {
@@ -7044,10 +7042,10 @@
     "artist": "BlackY vs. WAiKURO",
     "category": "舞萌",
     "image_file": "fac8d66129926589.png",
-    "lev_bas": "6",
-    "lev_adv": "8+",
-    "lev_exp": "11+",
-    "lev_mas": "14",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2021"
   },
   {
@@ -7055,10 +7053,153 @@
     "artist": "C-Show",
     "category": "舞萌",
     "image_file": "ef49d54bf76426a4.png",
-    "lev_bas": "5",
-    "lev_adv": "7+",
-    "lev_exp": "11",
-    "lev_mas": "13",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ウマイネームイズうまみちゃん",
+    "artist": "UMAINA",
+    "category": "流行&动漫",
+    "image_file": "355595c991550e39.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "クレイジー・ビート",
+    "artist": "さつき が てんこもり",
+    "category": "niconico＆VOCALOID",
+    "image_file": "db2bcb56952703da.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "グラーヴェ",
+    "artist": "niki",
+    "category": "niconico＆VOCALOID",
+    "image_file": "bb37d9710622d40f.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "バイオレンストリガー",
+    "artist": "八王子P",
+    "category": "niconico＆VOCALOID",
+    "image_file": "35a1e407f85b4d89.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "KILLER B",
+    "artist": "梅とら",
+    "category": "niconico＆VOCALOID",
+    "image_file": "bca0ad64e12b1b2f.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Lunar Mare",
+    "artist": "xi vs sakuzyo",
+    "category": "其他游戏",
+    "image_file": "4e394ae8137ced5d.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Saika",
+    "artist": "Rabpit",
+    "category": "其他游戏",
+    "image_file": "7f84a42ea9a6db85.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "CHAOS",
+    "artist": "Æsir",
+    "category": "其他游戏",
+    "image_file": "2a875754a682280d.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Maboroshi",
+    "artist": "かめりあ(EDP)",
+    "category": "其他游戏",
+    "image_file": "38f695d2f1210456.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ブレインジャックシンドローム",
+    "artist": "かいりきベア feat.利香",
+    "category": "舞萌",
+    "image_file": "272d10fdd20ebf8d.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "シエルブルーマルシェ",
+    "artist": "OSTER project feat. かなたん",
+    "category": "舞萌",
+    "image_file": "9fb752248141c1d7.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Ututu",
+    "artist": "中山真斗",
+    "category": "舞萌",
+    "image_file": "5c7da68424b91ee0.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "共鳴",
+    "artist": "SADA 2Futureanthem feat. ellie",
+    "category": "舞萌",
+    "image_file": "f03b05b1fc782ceb.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
   }
 ]

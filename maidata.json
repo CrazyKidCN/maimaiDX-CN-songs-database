@@ -7201,5 +7201,137 @@
     "dx_lev_exp": "10",
     "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
+  },
+  {
+    "title": "アトロポスと最果の探究者",
+    "artist": "しーけー",
+    "category": "其他游戏",
+    "image_file": "a6b014388c529531.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "energy trixxx",
+    "artist": "KAH",
+    "category": "其他游戏",
+    "image_file": "bce82906edfa120c.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "NULCTRL",
+    "artist": "Silentroom",
+    "category": "其他游戏",
+    "image_file": "b7837b1d26eb3a42.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "渦状銀河のシンフォニエッタ",
+    "artist": "山本真央樹",
+    "category": "舞萌",
+    "image_file": "a9be993d5f552289.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "GRÄNDIR",
+    "artist": "Rigel Theatre feat. ミーウェル",
+    "category": "舞萌",
+    "image_file": "2a26b38fcd378676.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "封焔の135秒",
+    "artist": "大国奏音",
+    "category": "舞萌",
+    "image_file": "2985e6ee69db26de.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "最強 the サマータイム!!!!!",
+    "artist": "曲：村カワ基成／歌：オンゲキシューターズ",
+    "category": "音击/中二节奏",
+    "image_file": "ab91abb8f5f716be.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "UTAKATA",
+    "artist": "曲：ゆよゆっぺ／歌：九條 楓(CV：佳村 はるか)",
+    "category": "音击/中二节奏",
+    "image_file": "f3768d0e7994daa5.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "タテマエと本心の大乱闘",
+    "artist": "曲：鯨井国家／歌：藍原 椿(CV：橋本 ちなみ)",
+    "category": "音击/中二节奏",
+    "image_file": "75ed99d686a556b0.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "CHOCOLATE BOMB!!!!",
+    "artist": "YUC'e",
+    "category": "音击/中二节奏",
+    "image_file": "9e15d61bf69877e4.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "はちみつアドベンチャー",
+    "artist": "Yunomi feat.nicamoq",
+    "category": "音击/中二节奏",
+    "image_file": "044f1d6c5c170d86.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "popcorn",
+    "artist": "happy machine",
+    "category": "音击/中二节奏",
+    "image_file": "ed998c68adada909.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
   }
 ]

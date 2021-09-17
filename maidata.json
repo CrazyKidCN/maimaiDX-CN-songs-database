@@ -1981,6 +1981,17 @@
     "version": "maimai PLUS"
   },
   {
+    "title": "Link",
+    "artist": "Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)",
+    "category": "niconico＆VOCALOID",
+    "image_file": "e90f79d9dcff84df.png",
+    "lev_bas": "5",
+    "lev_adv": "7",
+    "lev_exp": "9+",
+    "lev_mas": "11+",
+    "version": "ORANGE"
+  },
+  {
     "title": "バッド・ダンス・ホール",
     "artist": "ぱなまん/カラスヤサボウ",
     "category": "niconico＆VOCALOID",
@@ -7332,6 +7343,194 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
     "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "category": "流行&动漫",
+    "image_file": "072583714f1097b4.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "5",
+    "dx_lev_exp": "8",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "紅蓮華",
+    "artist": "LiSA",
+    "category": "流行&动漫",
+    "image_file": "b6dec4f1a549149c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "町かどタンジェント",
+    "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
+    "category": "流行&动漫",
+    "image_file": "27c7a499b2c2ce7b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ノーポイッ!",
+    "artist": "Petit Rabbit's",
+    "category": "流行&动漫",
+    "image_file": "657e8629f3cba345.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "命に嫌われている",
+    "artist": "カンザキイオリ",
+    "category": "niconico＆VOCALOID",
+    "image_file": "8dfce10e2d015493.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "乙女解剖",
+    "artist": "DECO*27",
+    "category": "niconico＆VOCALOID",
+    "image_file": "cb3762ad24071bdc.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "アンクローズ・ヒューマン",
+    "artist": "作曲：カジャ　作詞：傘村トータ　編曲：ねじ式　調声：シリア",
+    "category": "niconico＆VOCALOID",
+    "image_file": "0641b4abd73b15ea.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "悪戯センセーション",
+    "artist": "森羅万象",
+    "category": "东方Project",
+    "image_file": "5c5ae698a3ca6825.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Paranoia",
+    "artist": "DiGiTAL WiNG feat. 花たん",
+    "category": "东方Project",
+    "image_file": "2bb6a69fa0e66cc6.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "felys -final remix-",
+    "artist": "onoken",
+    "category": "其他游戏",
+    "image_file": "372b2bdce425ac62.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ぼくたちいつでも　しゅわっしゅわ！",
+    "artist": "ヒゲドライバー feat.らいむっくま(CV:村川梨衣) ＆ れもんっくま(CV:MoeMi)",
+    "category": "舞萌",
+    "image_file": "c8bed480e22142c9.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Jörqer",
+    "artist": "owl＊tree feat.yu＊tree",
+    "category": "舞萌",
+    "image_file": "6371b8c7d2c59e7f.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+    "artist": "owl＊tree Remixed by Camellia",
+    "category": "舞萌",
+    "image_file": "fcb1d9c95bb8205d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Boys O’Clock",
+    "artist": "technoplanet",
+    "category": "舞萌",
+    "image_file": "747c68a6bf27de45.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "居並ぶ穀物と溜息まじりの運送屋",
+    "artist": "hanzo",
+    "category": "舞萌",
+    "image_file": "c02537aab0c8a6a2.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ARAIS",
+    "artist": "千本松 仁",
+    "category": "舞萌",
+    "image_file": "63687937bbd3b9f4.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "宛城、炎上！！",
+    "artist": "Cranky feat.おもしろ三国志",
+    "category": "音击/中二节奏",
+    "image_file": "034cbece579217c7.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2021"
   }
 ]

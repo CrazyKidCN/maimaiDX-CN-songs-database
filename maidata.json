@@ -548,7 +548,11 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "12+",
-    "version": "MiLK"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
   },
   {
     "title": "エイリアンエイリアン",
@@ -7531,6 +7535,160 @@
     "dx_lev_adv": "8+",
     "dx_lev_exp": "12",
     "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ベノム",
+    "artist": "かいりきベア feat.flower",
+    "category": "niconico＆VOCALOID",
+    "image_file": "1e33fe6ab1df56ea.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "絶対にチョコミントを食べるアオイチャン",
+    "artist": "GYARI",
+    "category": "niconico＆VOCALOID",
+    "image_file": "f78fe124599ff669.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "絶え間なく藍色",
+    "artist": "獅子志司",
+    "category": "niconico＆VOCALOID",
+    "image_file": "9fcfc39056f4c51e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "とりあえずアナタがいなくなるまえに",
+    "artist": "作詞作曲：椎名もた　編曲：KTG　映像：Yuma Saito",
+    "category": "niconico＆VOCALOID",
+    "image_file": "cf54bee98fb8ac42.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Beautiful Future",
+    "artist": "PSYQUI",
+    "category": "舞萌",
+    "image_file": "f116991206292434.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Mutation",
+    "artist": "Laur",
+    "category": "舞萌",
+    "image_file": "927305ac2ee395bf.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Aetheric Energy",
+    "artist": "aran",
+    "category": "舞萌",
+    "image_file": "b2491c88e30e7d0b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Komplexe",
+    "artist": "雄之助 feat. Sennzai",
+    "category": "舞萌",
+    "image_file": "6fb57dd3a171eab3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "レーイレーイ",
+    "artist": "かいりきベア feat.松下",
+    "category": "音击/中二节奏",
+    "image_file": "3208b3758def086b.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "デリヘル呼んだら君が来た",
+    "artist": "ナナホシ管弦楽団",
+    "category": "niconico＆VOCALOID",
+    "image_file": "1a9429cd0ca4fce7.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "明星ギャラクティカ",
+    "artist": "ナユタン星人",
+    "category": "niconico＆VOCALOID",
+    "image_file": "1bbf2481ac18715d.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ガランド",
+    "artist": "ピコン",
+    "category": "niconico＆VOCALOID",
+    "image_file": "3ab9462a8ad2e844.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "≠彡\"/了→",
+    "artist": "水野健治",
+    "category": "舞萌",
+    "image_file": "7bd3115b580213e3.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "マネマネサイコトロピック",
+    "artist": "かいりきベア feat.GUMI",
+    "category": "niconico＆VOCALOID",
+    "image_file": "c486e3fd9c4cf390.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2021"
   }
 ]

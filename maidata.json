@@ -1673,7 +1673,11 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "12+",
-    "version": "GreeN"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
   },
   {
     "title": "吉原ラメント",
@@ -7685,6 +7689,150 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10+",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Virtual to LIVE",
+    "artist": "にじさんじ",
+    "category": "流行&动漫",
+    "image_file": "7c707b8a9823379b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "アスノヨゾラ哨戒班",
+    "artist": "Orangestar feat.IA",
+    "category": "niconico＆VOCALOID",
+    "image_file": "bbff0825f1647719.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Arty Party",
+    "artist": "yaseta",
+    "category": "其他游戏",
+    "image_file": "7473d78f898dee78.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "カラッポ・ノンフィクション",
+    "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+    "category": "其他游戏",
+    "image_file": "b8a67789729b6e80.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "c.s.q.n.",
+    "artist": "Aoi",
+    "category": "其他游戏",
+    "image_file": "59b04cbccd088b7f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "emomomo",
+    "artist": "Ras",
+    "category": "其他游戏",
+    "image_file": "e949f0cfb56f9ea8.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "YURUSHITE",
+    "artist": "t+pazolite",
+    "category": "音击/中二节奏",
+    "image_file": "7e709a028bc1c5c3.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "シアトリカル・ケース",
+    "artist": "ユリイ・カノン feat.ウォルピスカーター&まひる",
+    "category": "舞萌",
+    "image_file": "63a6907f7c15e040.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "REAL VOICE",
+    "artist": "達見 恵 featured by 佐野 宏晃",
+    "category": "舞萌",
+    "image_file": "ac02343dc7001ef1.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "オリフィス",
+    "artist": "40mP feat. シャノ",
+    "category": "舞萌",
+    "image_file": "32f13971dcdc12f7.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ユメヒバナ",
+    "artist": "RD-Sounds feat.中恵光城",
+    "category": "舞萌",
+    "image_file": "61a459ab9bce91e2.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "パラボラ",
+    "artist": "*Luna feat.NORISTRY",
+    "category": "舞萌",
+    "image_file": "73a07468c38c298c.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Climax",
+    "artist": "USAO",
+    "category": "音击/中二节奏",
+    "image_file": "c8af8a03388a9a19.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2021"
   }
 ]

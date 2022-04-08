@@ -7834,5 +7834,170 @@
     "dx_lev_exp": "12",
     "dx_lev_mas": "14",
     "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Prismatic",
+    "artist": "CielArc",
+    "category": "东方Project",
+    "image_file": "db4aaf0900fc7f88.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Sweet Requiem",
+    "artist": "REDALiCE & aran",
+    "category": "东方Project",
+    "image_file": "c61229d0709d989a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Dive into The Sky ～initialized～",
+    "artist": "A-One",
+    "category": "东方Project",
+    "image_file": "d1bb2b0bded8330e.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Ether Strike",
+    "artist": "Akira Complex",
+    "category": "其他游戏",
+    "image_file": "e4d70ce31ee28a9c.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Cyaegha",
+    "artist": "USAO",
+    "category": "其他游戏",
+    "image_file": "fdeb6b92b9339d2a.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "BREaK! BREaK! BREaK!",
+    "artist": "HiTECH NINJA vs Cranky",
+    "category": "舞萌",
+    "image_file": "91737a421106e7ca.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "BIRTH",
+    "artist": "llliiillliiilll",
+    "category": "舞萌",
+    "image_file": "6957b90486e1318e.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Regulus",
+    "artist": "お月さま交響曲",
+    "category": "舞萌",
+    "image_file": "f340a4081d9c66d7.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ポケットからぬりつぶせ！",
+    "artist": "曲：中山真斗／歌：マーチングポケッツ [日向 千夏(CV：岡咲 美保)、柏木 美亜(CV：和氣 あず未)、東雲 つむぎ(CV：和泉 風花)]",
+    "category": "音击/中二节奏",
+    "image_file": "adff3375e43eafbd.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Desperado Waltz",
+    "artist": "ぺのれり",
+    "category": "音击/中二节奏",
+    "image_file": "9cf73e43ce65b3a9.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "絡繰りドール",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "category": "东方Project",
+    "image_file": "00941cd102eac6ab.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+    "artist": "魂音泉",
+    "category": "东方Project",
+    "image_file": "33a4ed61c2911c40.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "Grievous Lady",
+    "artist": "Team Grimoire vs Laur",
+    "category": "其他游戏",
+    "image_file": "6d9c69398720e097.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "トリドリ⇒モリモリ！Lovely fruits☆",
+    "artist": "曲：やしきん／歌：柏木 美亜(CV：和氣 あず未)",
+    "category": "音击/中二节奏",
+    "image_file": "aa826be0d2a02ff8.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2021"
+  },
+  {
+    "title": "ワンダーシャッフェンの法則",
+    "artist": "アリスシャッハと魔法の楽団",
+    "category": "舞萌",
+    "image_file": "7795406e0a4be488.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2021"
   }
 ]

@@ -1,61 +1,5 @@
 [
   {
-    "title": "馬と鹿",
-    "artist": "米津玄師",
-    "category": "流行&动漫",
-    "image_file": "0f043456c6b775f9.png",
-    "dx_lev_bas": "1",
-    "dx_lev_adv": "5",
-    "dx_lev_exp": "8",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX"
-  },
-  {
-    "title": "LOSER",
-    "artist": "米津玄師",
-    "category": "流行&动漫",
-    "image_file": "118e314c4ee20d26.png",
-    "dx_lev_bas": "1",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+",
-    "version": "舞萌DX"
-  },
-  {
-    "title": "U.S.A.",
-    "artist": "DA PUMP",
-    "category": "流行&动漫",
-    "image_file": "69106af963fd6e26.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "11",
-    "dx_lev_remas": "12+",
-    "version": "舞萌DX"
-  },
-  {
-    "title": "新宝島",
-    "artist": "サカナクション",
-    "category": "流行&动漫",
-    "image_file": "67be8eca28588843.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "11+",
-    "version": "舞萌DX"
-  },
-  {
-    "title": "ラブ・ドラマティック feat. 伊原六花",
-    "artist": "鈴木雅之",
-    "category": "流行&动漫",
-    "image_file": "0efe51bee252ef32.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "11+",
-    "version": "舞萌DX"
-  },
-  {
     "title": "HOT LIMIT",
     "artist": "T.M.Revolution [covered by 光吉猛修]",
     "category": "流行&动漫",
@@ -90,23 +34,7 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "8",
     "dx_lev_mas": "12",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "コネクト",
-    "artist": "ClariS　「魔法少女まどか☆マギカ」",
-    "category": "流行&动漫",
-    "image_file": "30bc38a09670248e.png",
-    "lev_bas": "5",
-    "lev_adv": "7",
-    "lev_exp": "8",
-    "lev_mas": "11+",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "11",
-    "dx_lev_remas": "12+",
-    "version": "舞萌DX 2021"
+    "version": "GreeN"
   },
   {
     "title": "真・ハンサム体操でズンドコホイ",
@@ -552,7 +480,7 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX 2021"
+    "version": "MiLK"
   },
   {
     "title": "エイリアンエイリアン",
@@ -1083,17 +1011,6 @@
     "version": "ORANGE PLUS"
   },
   {
-    "title": "毒占欲",
-    "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
-    "image_file": "54a425ec3a343a2d.png",
-    "lev_bas": "5",
-    "lev_adv": "7",
-    "lev_exp": "9+",
-    "lev_mas": "13",
-    "version": "ORANGE"
-  },
-  {
     "title": "モザイクロール",
     "artist": "DECO*27",
     "category": "niconico＆VOCALOID",
@@ -1130,17 +1047,6 @@
     "dx_lev_exp": "9",
     "dx_lev_mas": "12",
     "version": "maimai PLUS"
-  },
-  {
-    "title": "Mr. Wonderland",
-    "artist": "sasakure.UK",
-    "category": "niconico＆VOCALOID",
-    "image_file": "dfa0872b1909577b.png",
-    "lev_bas": "5",
-    "lev_adv": "6",
-    "lev_exp": "9",
-    "lev_mas": "13",
-    "version": "PiNK PLUS"
   },
   {
     "title": "ありふれたせかいせいふく",
@@ -1431,17 +1337,6 @@
     "version": "maimai PLUS"
   },
   {
-    "title": "ジャガーノート",
-    "artist": "夏代孝明 feat. 初音ミク",
-    "category": "niconico＆VOCALOID",
-    "image_file": "ddbe1073df62d1f3.png",
-    "dx_lev_bas": "4",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9+",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX"
-  },
-  {
     "title": "メルティランドナイトメア",
     "artist": "はるまきごはん feat.初音ミク",
     "category": "niconico＆VOCALOID",
@@ -1620,17 +1515,6 @@
     "version": "MiLK"
   },
   {
-    "title": "名探偵連続殺人事件",
-    "artist": "てにをは",
-    "category": "niconico＆VOCALOID",
-    "image_file": "3a21e0c69cb0da64.png",
-    "lev_bas": "5",
-    "lev_adv": "6",
-    "lev_exp": "10",
-    "lev_mas": "11+",
-    "version": "MURASAKi PLUS"
-  },
-  {
     "title": "ARROW",
     "artist": "niki",
     "category": "niconico＆VOCALOID",
@@ -1677,7 +1561,7 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX 2021"
+    "version": "GreeN"
   },
   {
     "title": "吉原ラメント",
@@ -2087,17 +1971,6 @@
     "lev_exp": "10+",
     "lev_mas": "13",
     "version": "MiLK"
-  },
-  {
-    "title": "アウトサイダー",
-    "artist": "Eve",
-    "category": "niconico＆VOCALOID",
-    "image_file": "17407e363916fee3.png",
-    "dx_lev_bas": "4",
-    "dx_lev_adv": "7",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX"
   },
   {
     "title": "シャルル",
@@ -3711,6 +3584,7 @@
     "lev_adv": "6",
     "lev_exp": "11",
     "lev_mas": "13",
+    "lev_remas": "13",
     "version": "GreeN"
   },
   {
@@ -4034,6 +3908,7 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "12",
+    "lev_remas": "12",
     "version": "maimai PLUS"
   },
   {
@@ -4126,6 +4001,7 @@
     "lev_adv": "6",
     "lev_exp": "10",
     "lev_mas": "13",
+    "lev_remas": "13",
     "version": "maimai"
   },
   {
@@ -4436,6 +4312,7 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10+",
     "dx_lev_mas": "12+",
+    "dx_lev_remas": "13+",
     "version": "舞萌DX"
   },
   {
@@ -4657,6 +4534,7 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
     "dx_lev_mas": "13",
+    "dx_lev_remas": "14",
     "version": "舞萌DX"
   },
   {
@@ -4790,6 +4668,7 @@
     "dx_lev_adv": "8",
     "dx_lev_exp": "10+",
     "dx_lev_mas": "13",
+    "dx_lev_remas": "14",
     "version": "舞萌DX"
   },
   {
@@ -4801,6 +4680,7 @@
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13+",
+    "dx_lev_remas": "14",
     "version": "舞萌DX"
   },
   {
@@ -5433,6 +5313,7 @@
     "lev_adv": "7+",
     "lev_exp": "11+",
     "lev_mas": "13",
+    "lev_remas": "13+",
     "version": "maimai PLUS"
   },
   {
@@ -5499,6 +5380,7 @@
     "lev_adv": "7+",
     "lev_exp": "9+",
     "lev_mas": "13",
+    "lev_remas": "14",
     "version": "ORANGE"
   },
   {
@@ -5510,6 +5392,7 @@
     "lev_adv": "7+",
     "lev_exp": "11",
     "lev_mas": "13",
+    "lev_remas": "14",
     "version": "GreeN"
   },
   {
@@ -5521,6 +5404,7 @@
     "lev_adv": "6",
     "lev_exp": "11",
     "lev_mas": "12",
+    "lev_remas": "13",
     "version": "GreeN"
   },
   {
@@ -5532,6 +5416,7 @@
     "lev_adv": "7",
     "lev_exp": "10+",
     "lev_mas": "13+",
+    "lev_remas": "13",
     "version": "ORANGE PLUS"
   },
   {
@@ -5642,6 +5527,7 @@
     "lev_adv": "7+",
     "lev_exp": "10",
     "lev_mas": "13",
+    "lev_remas": "13+",
     "version": "PiNK"
   },
   {
@@ -5776,6 +5662,7 @@
     "lev_adv": "7+",
     "lev_exp": "10",
     "lev_mas": "13",
+    "lev_remas": "13",
     "version": "maimai PLUS"
   },
   {
@@ -5787,6 +5674,7 @@
     "lev_adv": "7",
     "lev_exp": "10+",
     "lev_mas": "12+",
+    "lev_remas": "12+",
     "version": "maimai PLUS"
   },
   {
@@ -5854,6 +5742,7 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "12+",
+    "lev_remas": "13+",
     "version": "PiNK"
   },
   {
@@ -5887,6 +5776,7 @@
     "lev_adv": "8",
     "lev_exp": "11+",
     "lev_mas": "13+",
+    "lev_remas": "14",
     "version": "GreeN"
   },
   {
@@ -5975,6 +5865,7 @@
     "lev_adv": "8",
     "lev_exp": "12",
     "lev_mas": "14",
+    "lev_remas": "14",
     "version": "GreeN"
   },
   {
@@ -6020,6 +5911,7 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "12+",
+    "lev_remas": "13",
     "version": "ORANGE"
   },
   {
@@ -6241,6 +6133,7 @@
     "lev_adv": "6",
     "lev_exp": "10+",
     "lev_mas": "12",
+    "lev_remas": "12+",
     "version": "GreeN"
   },
   {
@@ -6296,6 +6189,7 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "12+",
+    "lev_remas": "12",
     "version": "maimai PLUS"
   },
   {
@@ -6899,17 +6793,6 @@
     "version": "舞萌DX 2021"
   },
   {
-    "title": "青空のラプソディ",
-    "artist": "fhána",
-    "category": "流行&动漫",
-    "image_file": "d143b97d5593f73a.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9+",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX 2021"
-  },
-  {
     "title": "すーぱーぬこになれんかった",
     "artist": "まふまふ",
     "category": "niconico＆VOCALOID",
@@ -7127,50 +7010,6 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "10",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "Lunar Mare",
-    "artist": "xi vs sakuzyo",
-    "category": "其他游戏",
-    "image_file": "4e394ae8137ced5d.png",
-    "dx_lev_bas": "6",
-    "dx_lev_adv": "8",
-    "dx_lev_exp": "11",
-    "dx_lev_mas": "13+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "Saika",
-    "artist": "Rabpit",
-    "category": "其他游戏",
-    "image_file": "7f84a42ea9a6db85.png",
-    "dx_lev_bas": "4",
-    "dx_lev_adv": "7+",
-    "dx_lev_exp": "10",
-    "dx_lev_mas": "12+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "CHAOS",
-    "artist": "Æsir",
-    "category": "其他游戏",
-    "image_file": "2a875754a682280d.png",
-    "dx_lev_bas": "6",
-    "dx_lev_adv": "7+",
-    "dx_lev_exp": "11+",
-    "dx_lev_mas": "13+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "Maboroshi",
-    "artist": "かめりあ(EDP)",
-    "category": "其他游戏",
-    "image_file": "38f695d2f1210456.png",
-    "dx_lev_bas": "5",
-    "dx_lev_adv": "7+",
-    "dx_lev_exp": "11",
-    "dx_lev_mas": "14",
     "version": "舞萌DX 2021"
   },
   {

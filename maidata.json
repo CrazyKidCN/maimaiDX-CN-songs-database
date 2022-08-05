@@ -8105,5 +8105,160 @@
     "dx_lev_exp": "10+",
     "dx_lev_mas": "13",
     "version": "舞萌DX 2022"
+  },
+  {
+    "title": "幽霊東京",
+    "artist": "Ayase",
+    "category": "niconico＆VOCALOID",
+    "image_file": "73db56b2cbfd49c6.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "CO5M1C R4ILR0AD",
+    "artist": "kanone",
+    "category": "其他游戏",
+    "image_file": "0ea80d8bbb1fba2f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Rush-More",
+    "artist": "litmus*",
+    "category": "其他游戏",
+    "image_file": "f3980fde794cbf40.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "届かない花束",
+    "artist": "ELECTROCUTICA",
+    "category": "舞萌",
+    "image_file": "9d2e5faf33ea3aa9.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ステップアンドライム",
+    "artist": "YASUHIRO(康寛)",
+    "category": "舞萌",
+    "image_file": "ba15f7b947317461.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "星めぐり、果ての君へ。",
+    "artist": "TAKU1175 ft.駄々子",
+    "category": "舞萌",
+    "image_file": "c110c819a6c43a54.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "スローアライズ",
+    "artist": "Endorfin.",
+    "category": "舞萌",
+    "image_file": "565d4805b8b8848e.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "生命不詳",
+    "artist": "蜂屋ななし",
+    "category": "舞萌",
+    "image_file": "194a9262c9480e48.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "チエルカ／エソテリカ",
+    "artist": "ツミキ × 宮下遊",
+    "category": "舞萌",
+    "image_file": "9475222592a29f06.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "オーケー？　オーライ！",
+    "artist": "五十嵐 撫子(CV:花井 美春)",
+    "category": "音击/中二节奏",
+    "image_file": "854c238aee12a027.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "サヨナラフリーウェイ",
+    "artist": "萩原 七々瀬(CV:東城 日沙子)",
+    "category": "音击/中二节奏",
+    "image_file": "f6bf56f478f8ddcf.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "単一指向性オーバーブルーム",
+    "artist": "葛城 華(CV:丸岡 和佳奈)",
+    "category": "音击/中二节奏",
+    "image_file": "538753c5c57b3e9e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "みなえをチェック！",
+    "artist": "小野 美苗(CV:伊藤 美来)",
+    "category": "音击/中二节奏",
+    "image_file": "6a189a90cc4d00dd.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "MAKE IT FUNKY NOW",
+    "artist": "DOT96",
+    "category": "其他游戏",
+    "image_file": "abe8d795b816168a.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
   }
 ]

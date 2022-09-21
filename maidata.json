@@ -8260,5 +8260,192 @@
     "dx_lev_exp": "11",
     "dx_lev_mas": "13+",
     "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Alice in 冷凍庫",
+    "artist": "Orangestar",
+    "category": "niconico＆VOCALOID",
+    "image_file": "69466546da86df9f.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "トランスダンスアナーキー",
+    "artist": "暁Records",
+    "category": "东方Project",
+    "image_file": "5b6325556f04bfc2.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ベースラインやってる？笑",
+    "artist": "かめりあ feat. ななひら",
+    "category": "其他游戏",
+    "image_file": "e60c76f93e816688.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ヒミツCULT",
+    "artist": "t+pazolite",
+    "category": "其他游戏",
+    "image_file": "6f420cccbe95810a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Big Daddy",
+    "artist": "USAO",
+    "category": "其他游戏",
+    "image_file": "74fa058f35dd3ba4.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Starry Colors",
+    "artist": "BlackY feat. Risa Yuzuki",
+    "category": "舞萌",
+    "image_file": "f38fc9d91ef0b72c.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ハウリング",
+    "artist": "Liz Triangle",
+    "category": "东方Project",
+    "image_file": "b7a0795183f71fca.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "キラメキ居残り大戦争",
+    "artist": "森羅万象",
+    "category": "其他游戏",
+    "image_file": "0017d1b140e0da0a.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Strange Bar",
+    "artist": "Laur",
+    "category": "其他游戏",
+    "image_file": "d03a7cad6d682345.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "VIIIbit Explorer",
+    "artist": "Lime",
+    "category": "舞萌",
+    "image_file": "511f76bc9e72ec56.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Melody！",
+    "artist": "あ～るの～と（いえろ～ぜぶら）",
+    "category": "东方Project",
+    "image_file": "68d946095fefa800.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ALiVE",
+    "artist": "REDALiCE",
+    "category": "其他游戏",
+    "image_file": "aef1c386f0707061.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "MEGATON KICK",
+    "artist": "DJ Myosuke",
+    "category": "其他游戏",
+    "image_file": "55da4517b646b23b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "LOSE CONTROL",
+    "artist": "Massive New Krew",
+    "category": "其他游戏",
+    "image_file": "641087ee1df624de.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "下克上々",
+    "artist": "豚乙女",
+    "category": "东方Project",
+    "image_file": "0e2be24b3882ea4a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Never Give Up!",
+    "artist": "nanobii",
+    "category": "舞萌",
+    "image_file": "fd5895f21f0da045.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ほしぞらスペクタクル",
+    "artist": "奏音",
+    "category": "舞萌",
+    "image_file": "3b610dccb2b32467.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
   }
 ]

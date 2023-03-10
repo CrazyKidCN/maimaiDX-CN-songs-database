@@ -3206,11 +3206,15 @@
     "artist": "削除 feat. Nikki Simmons",
     "category": "其他游戏",
     "image_file": "e930f73c462d8a84.png",
+    "lev_bas": "5",
+    "lev_adv": "8",
+    "lev_exp": "12",
+    "lev_mas": "14",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX"
+    "version": "舞萌DX 2022"
   },
   {
     "title": "L4TS:2018 (feat. あひる & KTA)",
@@ -9035,6 +9039,171 @@
     "dx_lev_adv": "8",
     "dx_lev_exp": "13",
     "dx_lev_mas": "14+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "インドア系ならトラックメイカー",
+    "artist": "Yunomi & nicamoq",
+    "category": "流行&动漫",
+    "image_file": "57c8a97552b29815.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "失敗作少女",
+    "artist": "かいりきベア・MARETU feat.初音ミク",
+    "category": "niconico＆VOCALOID",
+    "image_file": "2dfb80213925c43b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ノイローゼ",
+    "artist": "蜂屋ななし",
+    "category": "niconico＆VOCALOID",
+    "image_file": "2d453be3e5be3283.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "悪魔の踊り方",
+    "artist": "キタニタツヤ",
+    "category": "niconico＆VOCALOID",
+    "image_file": "e1241f4838eb628f.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "響け！CHIREI MY WAY!",
+    "artist": "森羅万象",
+    "category": "东方Project",
+    "image_file": "f9e0d340bb1dd099.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "神々が恋した幻想郷",
+    "artist": "Unlucky Morpheus",
+    "category": "东方Project",
+    "image_file": "1060b41523ca6346.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ヒステリックナイトガール",
+    "artist": "PSYQUI",
+    "category": "其他游戏",
+    "image_file": "b48907e41b1a0e45.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Round Round Spinning Around",
+    "artist": "Nhato",
+    "category": "舞萌",
+    "image_file": "6a7e5bd00eb678b3.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Raven Emperor",
+    "artist": "Kobaryo",
+    "category": "舞萌",
+    "image_file": "000e4e52cbf4d11f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "LiftOff",
+    "artist": "MAYA AKAI",
+    "category": "音击/中二节奏",
+    "image_file": "75f148963308b860.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Alcyone",
+    "artist": "PRASTIK DANCEFLOOR",
+    "category": "舞萌",
+    "image_file": "071768635e02a075.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "No Limit RED Force",
+    "artist": "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ",
+    "category": "音击/中二节奏",
+    "image_file": "d0f6b039af8831d3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Falsum Atlantis.",
+    "artist": "kanone",
+    "category": "音击/中二节奏",
+    "image_file": "403667b44ac1d17e.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "ぱくぱく☆がーる",
+    "artist": "曲：齋藤大／歌：珠洲島 有栖(CV：長縄 まりあ)",
+    "category": "音击/中二节奏",
+    "image_file": "07f841698cba7fa8.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2022"
+  },
+  {
+    "title": "Yorugao",
+    "artist": "An & Ryunosuke Kudo",
+    "category": "舞萌",
+    "image_file": "ffa8c12106a9ee96.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2022"
   }
 ]

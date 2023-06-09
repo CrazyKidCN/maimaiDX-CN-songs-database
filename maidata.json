@@ -22,21 +22,6 @@
     "version": "FiNALE"
   },
   {
-    "title": "君の知らない物語",
-    "artist": "supercell「化物語」",
-    "category": "流行&动漫",
-    "image_file": "f1fbe1553464d234.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "8",
-    "lev_mas": "11",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8",
-    "dx_lev_mas": "12",
-    "version": "GreeN"
-  },
-  {
     "title": "真・ハンサム体操でズンドコホイ",
     "artist": "10Re;「学園ハンサム」",
     "category": "流行&动漫",
@@ -281,17 +266,6 @@
     "version": "GreeN PLUS"
   },
   {
-    "title": "ミラクル・ショッピング",
-    "artist": "田中マイミ",
-    "category": "流行&动漫",
-    "image_file": "010ead93b41724f0.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
-    "version": "MiLK"
-  },
-  {
     "title": "fake!fake!",
     "artist": "カラスは真っ白",
     "category": "流行&动漫",
@@ -360,7 +334,7 @@
   {
     "title": "アンドロイドガール",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "5847967f87cf1dab.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
@@ -371,7 +345,7 @@
   {
     "title": "スロウダウナー",
     "artist": "ろくろ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1f308086ecb36d24.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -382,7 +356,7 @@
   {
     "title": "ビターチョコデコレーション",
     "artist": "syudou",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4bc4d3834acf0534.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -393,7 +367,7 @@
   {
     "title": "スターリースカイ☆パレード",
     "artist": "キノシタ feat. 音街ウナ・鏡音リン",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bf6fcb6a8b2b79a7.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -404,7 +378,7 @@
   {
     "title": "だれかの心臓になれたなら",
     "artist": "ユリイ・カノン feat.GUMI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "274b280ee4f3f54d.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -415,7 +389,7 @@
   {
     "title": "グリーンライツ・セレナーデ",
     "artist": "Omoi feat. 初音ミク",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "95af1c4fc14eae36.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -426,7 +400,7 @@
   {
     "title": "METEOR",
     "artist": "DIVELA feat.初音ミク",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9ddf0c60aef5895b.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -437,7 +411,7 @@
   {
     "title": "だからパンを焼いたんだ",
     "artist": "あわのあゆむ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b4e4c2a261a15eb7.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -448,7 +422,7 @@
   {
     "title": "太陽系デスコ",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "ab3c088d671ddab6.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -459,7 +433,7 @@
   {
     "title": "彗星ハネムーン",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c3e9be8d22de76f7.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -470,7 +444,7 @@
   {
     "title": "ダンスロボットダンス",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "dfd85cc1f0611a87.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -485,7 +459,7 @@
   {
     "title": "エイリアンエイリアン",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "30b9a835ccb9b302.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -496,7 +470,7 @@
   {
     "title": "パーフェクト生命",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "56d88be25a7e2340.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -507,7 +481,7 @@
   {
     "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
     "artist": "GYARI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "ac704a32c62481ed.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -518,7 +492,7 @@
   {
     "title": "アカリがやってきたぞっ",
     "artist": "GYARI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1809c99151f29827.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -529,7 +503,7 @@
   {
     "title": "幾望の月",
     "artist": "なきゃむりゃ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b40335c202898759.png",
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
@@ -540,7 +514,7 @@
   {
     "title": "キミノヨゾラ哨戒班",
     "artist": "Orangestar",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "356f3d261ce84763.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -551,7 +525,7 @@
   {
     "title": "ウミユリ海底譚",
     "artist": "n-buna",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e2047e2898d1bc8c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -562,7 +536,7 @@
   {
     "title": "白ゆき",
     "artist": "n-buna",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c30ff16ab6a5e636.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -573,7 +547,7 @@
   {
     "title": "イカサマライフゲイム",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "ddb08097777c5683.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
@@ -584,7 +558,7 @@
   {
     "title": "敗北の少年",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8e9b0eff78428af6.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -595,7 +569,7 @@
   {
     "title": "インビジブル",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "81e682b1c94a1a56.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -607,7 +581,7 @@
   {
     "title": "人生リセットボタン",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a54d2e008abd16e8.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -618,7 +592,7 @@
   {
     "title": "リンカーネイション",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "dbdf6a51040a06b2.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -629,7 +603,7 @@
   {
     "title": "六兆年と一夜物語",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "0950cc45432555fe.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -644,7 +618,7 @@
   {
     "title": "フラジール",
     "artist": "ぬゆり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "91a0a24f380f5bd0.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -655,7 +629,7 @@
   {
     "title": "命ばっかり",
     "artist": "ぬゆり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "26b88ffa81e99426.png",
     "lev_bas": "3",
     "lev_adv": "6",
@@ -666,7 +640,7 @@
   {
     "title": "フィクサー",
     "artist": "ぬゆり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "04e1ae9bd03cd769.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -677,7 +651,7 @@
   {
     "title": "チュルリラ・チュルリラ・ダッダッダ！",
     "artist": "和田たけあき(くらげP)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e500e033148d33c1.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -688,7 +662,7 @@
   {
     "title": "サヨナラチェーンソー",
     "artist": "くらげP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e4af463b0c3c84de.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -699,7 +673,7 @@
   {
     "title": "39みゅーじっく！",
     "artist": "みきとP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "6c4f705831befadd.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -710,7 +684,7 @@
   {
     "title": "ロキ",
     "artist": "みきとP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b5d48d0f260a213d.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -722,7 +696,7 @@
   {
     "title": "バレリーコ",
     "artist": "みきとP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "30bb41cdf66ce0e1.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -733,7 +707,7 @@
   {
     "title": "いーあるふぁんくらぶ",
     "artist": "みきとP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b21cc578793a6938.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -749,7 +723,7 @@
   {
     "title": "だんだん早くなる",
     "artist": "40mP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "39044dca657c1f90.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -761,7 +735,7 @@
   {
     "title": "恋愛裁判",
     "artist": "40mP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3dc5138216e086fe.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -772,7 +746,7 @@
   {
     "title": "からくりピエロ",
     "artist": "40mP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e466cd437e917e44.png",
     "lev_bas": "3",
     "lev_adv": "5",
@@ -784,7 +758,7 @@
   {
     "title": "脳漿炸裂ガール",
     "artist": "れるりり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "968dbd5f0c309827.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -799,7 +773,7 @@
   {
     "title": "カゲロウデイズ",
     "artist": "じん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b6e33b58e573a59b.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -811,7 +785,7 @@
   {
     "title": "夜咄ディセイブ",
     "artist": "じん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "24bb3dc2a6705c6d.png",
     "lev_bas": "4",
     "lev_adv": "7+",
@@ -822,7 +796,7 @@
   {
     "title": "アウターサイエンス",
     "artist": "じん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b0ce56a34d3e72dc.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -833,7 +807,7 @@
   {
     "title": "アディショナルメモリー",
     "artist": "じん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4845db8b27fd2f65.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -844,7 +818,7 @@
   {
     "title": "砂の惑星 feat. HATSUNE MIKU",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "d9da71418f642af6.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -855,7 +829,7 @@
   {
     "title": "ドーナツホール",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "98a835418650545d.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -866,7 +840,7 @@
   {
     "title": "マトリョシカ",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "311d40df8438952a.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -878,7 +852,7 @@
   {
     "title": "パンダヒーロー",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "435c43a8153c239a.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -889,7 +863,7 @@
   {
     "title": "WORLD'S END UMBRELLA",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e0f1089623f573d3.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -900,7 +874,7 @@
   {
     "title": "結ンデ開イテ羅刹ト骸",
     "artist": "ハチ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "f45c9659d4bbf662.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -912,7 +886,7 @@
   {
     "title": "ゴーゴー幽霊船",
     "artist": "米津玄師",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b4c2df0b003d74e2.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -923,7 +897,7 @@
   {
     "title": "アンノウン・マザーグース",
     "artist": "wowaka",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "5140f70bbc88cc99.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -934,7 +908,7 @@
   {
     "title": "アンハッピーリフレイン",
     "artist": "wowaka",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "0b3097b182ae0642.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -945,7 +919,7 @@
   {
     "title": "裏表ラバーズ",
     "artist": "wowaka",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1c9f188e15b13d2b.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -956,7 +930,7 @@
   {
     "title": "ローリンガール",
     "artist": "wowaka",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "35c7bf45db2cc050.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -967,7 +941,7 @@
   {
     "title": "ワールズエンド・ダンスホール",
     "artist": "wowaka",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "7d63f55a93c01564.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -977,21 +951,9 @@
     "version": "maimai"
   },
   {
-    "title": "妄想感傷代償連盟",
-    "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
-    "image_file": "ba246e30c720cb39.png",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "8+",
-    "lev_mas": "10+",
-    "lev_remas": "12+",
-    "version": "MiLK PLUS"
-  },
-  {
     "title": "ゴーストルール",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1c389ba08db6c6f4.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -1004,20 +966,9 @@
     "version": "舞萌DX 2022"
   },
   {
-    "title": "ストリーミングハート",
-    "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
-    "image_file": "5cfa9f0661807944.png",
-    "lev_bas": "4",
-    "lev_adv": "7",
-    "lev_exp": "9+",
-    "lev_mas": "12+",
-    "version": "ORANGE PLUS"
-  },
-  {
     "title": "モザイクロール",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "813d4e599de416c0.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1026,36 +977,9 @@
     "version": "GreeN"
   },
   {
-    "title": "弱虫モンブラン",
-    "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
-    "image_file": "2e735ac2d44d4511.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12",
-    "version": "GreeN"
-  },
-  {
-    "title": "39",
-    "artist": "sasakure.UK x DECO*27",
-    "category": "niconico＆VOCALOID",
-    "image_file": "db70c06c380e264e.png",
-    "lev_bas": "5",
-    "lev_adv": "7+",
-    "lev_exp": "10",
-    "lev_mas": "12",
-    "lev_remas": "12+",
-    "dx_lev_bas": "4",
-    "dx_lev_adv": "7",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "12",
-    "version": "maimai PLUS"
-  },
-  {
     "title": "ありふれたせかいせいふく",
     "artist": "ピノキオピー",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "dc8f146a69069b71.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1066,7 +990,7 @@
   {
     "title": "腐れ外道とチョコレゐト",
     "artist": "ピノキオP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9a0626b85cbf4c24.png",
     "lev_bas": "6",
     "lev_adv": "8",
@@ -1077,7 +1001,7 @@
   {
     "title": "ヒビカセ",
     "artist": "GigaReol",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "51c57344a3158454.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1088,7 +1012,7 @@
   {
     "title": "+♂",
     "artist": "ギガ/れをる　ダンス　アルスマグナ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a565687e7a656aab.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1099,18 +1023,22 @@
   {
     "title": "セツナトリップ",
     "artist": "Last Note.",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4cdf81639751cc7f.png",
     "lev_bas": "4",
     "lev_adv": "6",
     "lev_exp": "10",
     "lev_mas": "13",
-    "version": "GreeN"
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
   },
   {
     "title": "放課後ストライド",
     "artist": "Last Note.",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3fb5811ff9f8780a.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1121,7 +1049,7 @@
   {
     "title": "このピアノでお前を8759632145回ぶん殴る",
     "artist": "SLAVE.V-V-R",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "02960e843e603fcc.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1132,7 +1060,7 @@
   {
     "title": "やめろ！聴くな！",
     "artist": "SLAVE.V-V-R",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bae2c3c40c380969.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1143,7 +1071,7 @@
   {
     "title": "メランコリック",
     "artist": "Junky",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "883b8d0c3ac0b34a.png",
     "lev_bas": "6",
     "lev_adv": "6",
@@ -1154,7 +1082,7 @@
   {
     "title": "ZIGG-ZAGG",
     "artist": "Junky",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3c33f819dd33084c.png",
     "lev_bas": "6",
     "lev_adv": "6",
@@ -1166,7 +1094,7 @@
   {
     "title": "I ♥",
     "artist": "Junky",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "02726be291ff6fa0.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1177,7 +1105,7 @@
   {
     "title": "ラブチーノ",
     "artist": "Junky",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1e713165e806d9d6.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1188,7 +1116,7 @@
   {
     "title": "スイートマジック",
     "artist": "ろん×Junky",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e1e5a738cc1af930.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1199,7 +1127,7 @@
   {
     "title": "リリリリ★バーニングナイト",
     "artist": "samfree",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "0ecd4d01e6c5816a.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1210,7 +1138,7 @@
   {
     "title": "イアイア★ナイトオブデザイア",
     "artist": "samfree",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e87708ce64ba6e75.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1221,7 +1149,7 @@
   {
     "title": "ルカルカ★ナイトフィーバー",
     "artist": "samfree",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b3690cc56ebefda2.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1232,7 +1160,7 @@
   {
     "title": "メグメグ☆ファイアーエンドレスナイト",
     "artist": "samfree",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c5b4e1db83ded58b.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -1243,7 +1171,7 @@
   {
     "title": "深海少女",
     "artist": "ゆうゆ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "74f1d3bb32ce7d30.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1254,7 +1182,7 @@
   {
     "title": "トルコ行進曲 - オワタ＼(^o^)／",
     "artist": "オワタP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "951e6d7982e052cf.png",
     "lev_bas": "3",
     "lev_adv": "6",
@@ -1265,7 +1193,7 @@
   {
     "title": "Sweetiex2",
     "artist": "Dixie Flatline",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "867a5c27569914df.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1276,7 +1204,7 @@
   {
     "title": "shake it!",
     "artist": "emon",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1480ca66a27df12e.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1287,7 +1215,7 @@
   {
     "title": "Heart Beats",
     "artist": "向日葵×emon(Tes.)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "98960650058c168a.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -1298,7 +1226,7 @@
   {
     "title": "初音ミクの激唱",
     "artist": "Storyteller",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "286115dc6007ad2a.png",
     "lev_bas": "6",
     "lev_adv": "8",
@@ -1309,7 +1237,7 @@
   {
     "title": "初音ミクの消失",
     "artist": "cosMo＠暴走P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1a02c2684d829331.png",
     "lev_bas": "5",
     "lev_adv": "8",
@@ -1320,7 +1248,7 @@
   {
     "title": "終点",
     "artist": "cosMo@暴走P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "56c793d08494cafe.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -1331,7 +1259,7 @@
   {
     "title": "Tell Your World",
     "artist": "livetune",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "2409dc4300acfacf.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1343,7 +1271,7 @@
   {
     "title": "メルティランドナイトメア",
     "artist": "はるまきごはん feat.初音ミク",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b245ac1c75a0acb9.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -1354,7 +1282,7 @@
   {
     "title": "メルト",
     "artist": "supercell",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b84d562faa4c7c0b.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -1365,7 +1293,7 @@
   {
     "title": "デンパラダイム",
     "artist": "lumo",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "37b7f72f67a5d4ae.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
@@ -1376,7 +1304,7 @@
   {
     "title": "骸骨楽団とリリア",
     "artist": "トーマ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a74fb1bfa112e7cb.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
@@ -1387,7 +1315,7 @@
   {
     "title": "星屑ユートピア",
     "artist": "otetsu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "84aeeb88068f829e.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -1398,7 +1326,7 @@
   {
     "title": "アマツキツネ",
     "artist": "まらしぃ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "49a37b23bf52f77f.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -1409,7 +1337,7 @@
   {
     "title": "Strobe♡Girl",
     "artist": "colate",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a8e14db93c0abf9c.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -1420,7 +1348,7 @@
   {
     "title": "ナイトメア☆パーティーナイト",
     "artist": "くちばしP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "2ab3812cc612f648.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1432,7 +1360,7 @@
   {
     "title": "はやくそれになりたい！",
     "artist": "キノシタ feat. 音街ウナ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8bcd4e9515ccbeb9.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1444,7 +1372,7 @@
   {
     "title": "おねがいダーリン",
     "artist": "ONE (song by ナナホシ管弦楽団)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "ef6f1e317a56e61c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1455,7 +1383,7 @@
   {
     "title": "フリィダム ロリィタ",
     "artist": "ねじ式",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b5a075c27659db38.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1466,7 +1394,7 @@
   {
     "title": "幸せになれる隠しコマンドがあるらしい",
     "artist": "うたたP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a1da6a4bdebaf419.png",
     "lev_bas": "5",
     "lev_adv": "8",
@@ -1477,7 +1405,7 @@
   {
     "title": "しねばいいのに",
     "artist": "どぶウサギ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "876172e4c4979c78.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1488,7 +1416,7 @@
   {
     "title": "キレキャリオン",
     "artist": "ポリスピカデリー",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c0c293f4eef1087e.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1499,7 +1427,7 @@
   {
     "title": "ドクハク",
     "artist": "MARETU",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4fa10a454644291e.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -1510,7 +1438,7 @@
   {
     "title": "アルカリレットウセイ",
     "artist": "かいりきベア",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b337c736e69b8f8a.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1521,7 +1449,7 @@
   {
     "title": "ARROW",
     "artist": "niki",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "131b1873d71a6baa.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1532,7 +1460,7 @@
   {
     "title": "ヘルシーエンド",
     "artist": "椎名もた (ぽわぽわP)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "74d3b31d6375a517.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1543,7 +1471,7 @@
   {
     "title": "ロストワンの号哭",
     "artist": "Neru",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1cb4a922d67acf7e.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1555,7 +1483,7 @@
   {
     "title": "天ノ弱",
     "artist": "164",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "09f6026981bfa534.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1570,7 +1498,7 @@
   {
     "title": "吉原ラメント",
     "artist": "亜沙",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "f996e3e62d932b50.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -1581,7 +1509,7 @@
   {
     "title": "生きてるおばけは生きている",
     "artist": "鬱P feat.flower",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e7d7afbbef397731.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1592,7 +1520,7 @@
   {
     "title": "踊れオーケストラ",
     "artist": "YASUHIRO(康寛)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "6fdaa71c47264392.png",
     "lev_bas": "5",
     "lev_adv": "6",
@@ -1603,7 +1531,7 @@
   {
     "title": "赤心性：カマトト荒療治",
     "artist": "スズム",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8d5a0bee619f9c22.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1614,7 +1542,7 @@
   {
     "title": "イノコリ先生",
     "artist": "HoneyWorks",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "63fb1212d0b7cc6c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1625,7 +1553,7 @@
   {
     "title": "ECHO",
     "artist": "CIRCRUSH",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c388ac7580206d1c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1636,7 +1564,7 @@
   {
     "title": "東京リアルワールド",
     "artist": "out of service",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a4c576aec0c3897c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1647,7 +1575,7 @@
   {
     "title": "M.S.S.Planet",
     "artist": "M.S.S Project",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c0ee52db4c23afe7.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1658,7 +1586,7 @@
   {
     "title": "不毛！",
     "artist": "ぽてんしゃる0",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "548131ddb354349f.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1669,7 +1597,7 @@
   {
     "title": "ネトゲ廃人シュプレヒコール",
     "artist": "さつき が てんこもり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "194326e1cb7513ae.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1680,7 +1608,7 @@
   {
     "title": "StargazeR",
     "artist": "骨盤P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "5a1892ce8c415ca5.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1691,7 +1619,7 @@
   {
     "title": "みくみくにしてあげる♪【してやんよ】",
     "artist": "ika",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4f61e6e5584ba3db.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1702,7 +1630,7 @@
   {
     "title": "ぽっぴっぽー",
     "artist": "",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a614663a6453f7de.png",
     "lev_bas": "3",
     "lev_adv": "6",
@@ -1713,7 +1641,7 @@
   {
     "title": "Nyan Cat EX",
     "artist": "daniwell",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "45086a744d1294be.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1724,7 +1652,7 @@
   {
     "title": "どうしてこうなった",
     "artist": "うどんゲルゲ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "ace05ab995f9fee5.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1735,7 +1663,7 @@
   {
     "title": "magician's operation",
     "artist": "EZFG",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9e5d4466d8429a5b.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1746,7 +1674,7 @@
   {
     "title": "教えて!! 魔法のLyric",
     "artist": "ちょむP <advanced mix>",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "19c643efff825c85.png",
     "lev_bas": "6",
     "lev_adv": "7",
@@ -1757,7 +1685,7 @@
   {
     "title": "おちゃめ機能",
     "artist": "ゴジマジP",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "29d1106de82a3432.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1768,7 +1696,7 @@
   {
     "title": "BAD∞END∞NIGHT",
     "artist": "ひとしずくP・やま△",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "379a393f1e3acfbf.png",
     "lev_bas": "4",
     "lev_adv": "7+",
@@ -1779,7 +1707,7 @@
   {
     "title": "ロミオとシンデレラ",
     "artist": "doriko",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9a1d155fd3c46f5d.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -1791,7 +1719,7 @@
   {
     "title": "ダンシング☆サムライ",
     "artist": "mathru(かにみそP)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "d4f0ba13bfbcfb04.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1802,7 +1730,7 @@
   {
     "title": "ハロ／ハワユ",
     "artist": "ナノウ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "7486b0344c14d632.png",
     "lev_bas": "4",
     "lev_adv": "5",
@@ -1813,7 +1741,7 @@
   {
     "title": "林檎華憐歌",
     "artist": "ビートまりお母(尾崎順子)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4077a676c90c2cba.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1824,7 +1752,7 @@
   {
     "title": "ないせんのうた",
     "artist": "ナイセン - momoco-",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "d6ef4f59f4072867.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1835,7 +1763,7 @@
   {
     "title": "木彫り鯰と右肩ゾンビ",
     "artist": "hanzo/赤飯歌唱Ver",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "caa90ebabef5e041.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1846,7 +1774,7 @@
   {
     "title": "デッドレッドガールズ",
     "artist": "MARUDARUMA",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3f2e914b4c289b9f.png",
     "lev_bas": "4",
     "lev_adv": "7+",
@@ -1857,7 +1785,7 @@
   {
     "title": "One Step Ahead",
     "artist": "伊東歌詞太郎",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8e3cad1f597c0558.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1879,7 +1807,7 @@
   {
     "title": "Link",
     "artist": "Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e90f79d9dcff84df.png",
     "lev_bas": "5",
     "lev_adv": "7",
@@ -1890,7 +1818,7 @@
   {
     "title": "バッド・ダンス・ホール",
     "artist": "ぱなまん/カラスヤサボウ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9dfd23eb9143196f.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1899,20 +1827,9 @@
     "version": "MURASAKi PLUS"
   },
   {
-    "title": "共感覚おばけ",
-    "artist": "ササノマリイ",
-    "category": "niconico＆VOCALOID",
-    "image_file": "5f3e8e0ffeaf0312.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "12+",
-    "version": "MiLK"
-  },
-  {
     "title": "quiet room",
     "artist": "有機酸",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "abe34235d9fb7db3.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -1923,7 +1840,7 @@
   {
     "title": "ロールプレイングゲーム",
     "artist": "そらまふうらさか",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e38ab7bc712135a3.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1934,7 +1851,7 @@
   {
     "title": "すーぱーぬこになりたい",
     "artist": "まふまふ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "d2441b78d4fb5ffc.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1945,7 +1862,7 @@
   {
     "title": "立ち入り禁止",
     "artist": "まふまふ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e1eb6ad1e4e1345c.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -1957,7 +1874,7 @@
   {
     "title": "CocktaiL",
     "artist": "XYZ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "54189becb1c144d3.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -1968,7 +1885,7 @@
   {
     "title": "ナンセンス文学",
     "artist": "Eve",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c1b5c8e26e70f996.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -1979,7 +1896,7 @@
   {
     "title": "シャルル",
     "artist": "バルーン",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3d6ae19fff511a61.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -2430,7 +2347,11 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "12+",
-    "version": "GreeN"
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
   },
   {
     "title": "Cosmic Magic Shooter",
@@ -3478,17 +3399,6 @@
     "version": "FiNALE"
   },
   {
-    "title": "麒麟",
-    "artist": "sasakure.UK",
-    "category": "其他游戏",
-    "image_file": "88185a61da17d947.png",
-    "lev_bas": "6",
-    "lev_adv": "8+",
-    "lev_exp": "11+",
-    "lev_mas": "14",
-    "version": "MiLK"
-  },
-  {
     "title": "Jack-the-Ripper◆",
     "artist": "sasakure.UK",
     "category": "其他游戏",
@@ -3721,17 +3631,6 @@
     "lev_exp": "9+",
     "lev_mas": "12",
     "version": "PiNK PLUS"
-  },
-  {
-    "title": "Our Fighting",
-    "artist": "クーナ(CV 喜多村英梨)「PHANTASY STAR ONLINE 2」",
-    "category": "其他游戏",
-    "image_file": "3c051b5bb18aeadf.png",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "9+",
-    "lev_mas": "11+",
-    "version": "ORANGE PLUS"
   },
   {
     "title": "Save This World νMIX",
@@ -6755,7 +6654,7 @@
   {
     "title": "おこちゃま戦争",
     "artist": "ギガ/れをる",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e8f0c0f81f6a4e8a.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -6777,7 +6676,7 @@
   {
     "title": "拝啓ドッペルゲンガー",
     "artist": "kemu",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "0298532f0508465a.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -6811,7 +6710,7 @@
   {
     "title": "すーぱーぬこになれんかった",
     "artist": "まふまふ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c16bd3250dcfc965.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -6822,7 +6721,7 @@
   {
     "title": "Catch the Wave",
     "artist": "livetune",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c0ee4895feacba46.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -6833,7 +6732,7 @@
   {
     "title": "アスヘノBRAVE",
     "artist": "M.S.S Project",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "6e2e4e3b67513e89.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -6844,7 +6743,7 @@
   {
     "title": "深海シティアンダーグラウンド",
     "artist": "田中Ｂ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "5cb9cdf0b07e1366.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -6855,7 +6754,7 @@
   {
     "title": "表裏一体",
     "artist": "すりぃ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "71c12dd507e2374e.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -6987,7 +6886,7 @@
   {
     "title": "クレイジー・ビート",
     "artist": "さつき が てんこもり",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "db2bcb56952703da.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -6998,7 +6897,7 @@
   {
     "title": "グラーヴェ",
     "artist": "niki",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bb37d9710622d40f.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7009,7 +6908,7 @@
   {
     "title": "バイオレンストリガー",
     "artist": "八王子P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "35a1e407f85b4d89.png",
     "dx_lev_bas": "5",
     "dx_lev_adv": "7+",
@@ -7020,7 +6919,7 @@
   {
     "title": "KILLER B",
     "artist": "梅とら",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bca0ad64e12b1b2f.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -7205,54 +7104,9 @@
     "version": "舞萌DX 2021"
   },
   {
-    "title": "Pretender",
-    "artist": "Official髭男dism",
-    "category": "流行&动漫",
-    "image_file": "072583714f1097b4.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "5",
-    "dx_lev_exp": "8",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "紅蓮華",
-    "artist": "LiSA",
-    "category": "流行&动漫",
-    "image_file": "b6dec4f1a549149c.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "9",
-    "dx_lev_mas": "11",
-    "dx_lev_remas": "12+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "町かどタンジェント",
-    "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
-    "category": "流行&动漫",
-    "image_file": "27c7a499b2c2ce7b.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "11+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "ノーポイッ!",
-    "artist": "Petit Rabbit's",
-    "category": "流行&动漫",
-    "image_file": "657e8629f3cba345.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "12",
-    "version": "舞萌DX 2021"
-  },
-  {
     "title": "命に嫌われている",
     "artist": "カンザキイオリ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8dfce10e2d015493.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7263,7 +7117,7 @@
   {
     "title": "乙女解剖",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "cb3762ad24071bdc.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7274,7 +7128,7 @@
   {
     "title": "アンクローズ・ヒューマン",
     "artist": "作曲：カジャ　作詞：傘村トータ　編曲：ねじ式　調声：シリア",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "0641b4abd73b15ea.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7395,7 +7249,7 @@
   {
     "title": "ベノム",
     "artist": "かいりきベア feat.flower",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1e33fe6ab1df56ea.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7406,7 +7260,7 @@
   {
     "title": "絶対にチョコミントを食べるアオイチャン",
     "artist": "GYARI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "f78fe124599ff669.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7417,7 +7271,7 @@
   {
     "title": "絶え間なく藍色",
     "artist": "獅子志司",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9fcfc39056f4c51e.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7428,7 +7282,7 @@
   {
     "title": "とりあえずアナタがいなくなるまえに",
     "artist": "作詞作曲：椎名もた　編曲：KTG　映像：Yuma Saito",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "cf54bee98fb8ac42.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7494,7 +7348,7 @@
   {
     "title": "デリヘル呼んだら君が来た",
     "artist": "ナナホシ管弦楽団",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1a9429cd0ca4fce7.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7505,7 +7359,7 @@
   {
     "title": "明星ギャラクティカ",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1bbf2481ac18715d.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -7516,7 +7370,7 @@
   {
     "title": "ガランド",
     "artist": "ピコン",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3ab9462a8ad2e844.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "7",
@@ -7538,7 +7392,7 @@
   {
     "title": "マネマネサイコトロピック",
     "artist": "かいりきベア feat.GUMI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c486e3fd9c4cf390.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7561,23 +7415,12 @@
   {
     "title": "アスノヨゾラ哨戒班",
     "artist": "Orangestar feat.IA",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bbff0825f1647719.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX 2021"
-  },
-  {
-    "title": "Arty Party",
-    "artist": "yaseta",
-    "category": "其他游戏",
-    "image_file": "7473d78f898dee78.png",
-    "dx_lev_bas": "5",
-    "dx_lev_adv": "8",
-    "dx_lev_exp": "11+",
-    "dx_lev_mas": "13+",
     "version": "舞萌DX 2021"
   },
   {
@@ -7693,7 +7536,7 @@
   {
     "title": "二息歩行",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "c1de7b4bbf76fcd8.png",
     "lev_bas": "4",
     "lev_adv": "6",
@@ -7726,7 +7569,7 @@
   {
     "title": "頓珍漢の宴",
     "artist": "ピノキオピー",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "a6c3b1d13b0731e7.png",
     "lev_bas": "5",
     "lev_adv": "7+",
@@ -7737,7 +7580,7 @@
   {
     "title": "ヒバナ",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "6e8acabbb209b93e.png",
     "lev_bas": "4",
     "lev_adv": "7",
@@ -7912,21 +7755,9 @@
     "version": "舞萌DX 2021"
   },
   {
-    "title": "秒針を噛む",
-    "artist": "ずっと真夜中でいいのに。",
-    "category": "流行&动漫",
-    "image_file": "6cc2f7748e087bd5.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "11",
-    "dx_lev_remas": "12+",
-    "version": "舞萌DX 2022"
-  },
-  {
     "title": "雨とペトラ",
     "artist": "バルーン",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "5c564c459e85f320.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7",
@@ -7937,7 +7768,7 @@
   {
     "title": "ネガティブ進化論",
     "artist": "DECO*27",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4a10309bcd38e74e.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -7948,7 +7779,7 @@
   {
     "title": "永遠にゲームで対戦したいキリタン",
     "artist": "GYARI",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "4f00257853319e40.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -8045,29 +7876,6 @@
     "version": "舞萌DX 2022"
   },
   {
-    "title": "おジャ魔女カーニバル!!",
-    "artist": "covered by 光吉猛修",
-    "category": "流行&动漫",
-    "image_file": "3491119fdaa2b30a.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "8+",
-    "dx_lev_mas": "12+",
-    "version": "舞萌DX 2022"
-  },
-  {
-    "title": "冬のこもりうた",
-    "artist": "原田知世",
-    "category": "流行&动漫",
-    "image_file": "7eb9f64eda816b98.png",
-    "dx_lev_bas": "1",
-    "dx_lev_adv": "5",
-    "dx_lev_exp": "7+",
-    "dx_lev_mas": "10+",
-    "dx_lev_remas": "13",
-    "version": "舞萌DX 2022"
-  },
-  {
     "title": "今、誰が為のかがり火へ",
     "artist": "幽閉サテライト",
     "category": "东方Project",
@@ -8103,7 +7911,7 @@
   {
     "title": "KING",
     "artist": "Kanaria",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "bee11abab3bb3101.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -8125,7 +7933,7 @@
   {
     "title": "幽霊東京",
     "artist": "Ayase",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "73db56b2cbfd49c6.png",
     "dx_lev_bas": "1",
     "dx_lev_adv": "6",
@@ -8280,7 +8088,7 @@
   {
     "title": "Alice in 冷凍庫",
     "artist": "Orangestar",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "69466546da86df9f.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -8467,7 +8275,7 @@
   {
     "title": "再会",
     "artist": "はるまきごはん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "7f88bdf21553f929.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -8478,7 +8286,7 @@
   {
     "title": "約束",
     "artist": "はるまきごはん",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "9399ecd9176a93e7.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -8489,7 +8297,7 @@
   {
     "title": "猫猫的宇宙論",
     "artist": "ナユタン星人",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e9f43274d5a1ed36.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -8500,7 +8308,7 @@
   {
     "title": "アルティメットセンパイ",
     "artist": "ピノキオピー",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "77a97e85ae4f2b53.png",
     "dx_lev_bas": "4",
     "dx_lev_adv": "6",
@@ -8509,20 +8317,9 @@
     "version": "舞萌DX 2022"
   },
   {
-    "title": "ディカディズム",
-    "artist": "ぬゆり",
-    "category": "niconico＆VOCALOID",
-    "image_file": "1ef2747493f2d184.png",
-    "dx_lev_bas": "3",
-    "dx_lev_adv": "7",
-    "dx_lev_exp": "9+",
-    "dx_lev_mas": "13",
-    "version": "舞萌DX 2022"
-  },
-  {
     "title": "トラフィック・ジャム",
     "artist": "煮ル果実",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "f295e2f2410559df.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -8577,7 +8374,7 @@
   {
     "title": "ラットが死んだnew words",
     "artist": "P.I.N.A.",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "cbf338a693653133.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -8588,7 +8385,7 @@
   {
     "title": "阿吽のビーツ",
     "artist": "羽生まゐご",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1490116ec0420770.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -8713,7 +8510,7 @@
   {
     "title": "グッバイ宣言",
     "artist": "Chinozo",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "b44613f0defc39bd.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -8724,7 +8521,7 @@
   {
     "title": "テレキャスタービーボーイ",
     "artist": "すりぃ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "8ec5044872bc5c23.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -8736,7 +8533,7 @@
   {
     "title": "僕は空気が嫁ない",
     "artist": "cosMo＠暴走P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "249cc28f8f59539a.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -8747,7 +8544,7 @@
   {
     "title": "デッドマンズバラッド",
     "artist": "cosMo＠暴走P",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "fc8413fd2a11ca68.png",
     "dx_lev_bas": "5",
     "dx_lev_adv": "8",
@@ -8890,7 +8687,7 @@
   {
     "title": "ポッピンキャンディ☆フィーバー！",
     "artist": "キノシタ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "930e189b37d9d832.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7+",
@@ -8901,7 +8698,7 @@
   {
     "title": "どぅーまいべすと！",
     "artist": "キノシタ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "2e6f3f0c952aabe6.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -9055,7 +8852,7 @@
   {
     "title": "失敗作少女",
     "artist": "かいりきベア・MARETU feat.初音ミク",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "2dfb80213925c43b.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
@@ -9066,7 +8863,7 @@
   {
     "title": "ノイローゼ",
     "artist": "蜂屋ななし",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "2d453be3e5be3283.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "7+",
@@ -9077,7 +8874,7 @@
   {
     "title": "悪魔の踊り方",
     "artist": "キタニタツヤ",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "e1241f4838eb628f.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -9209,7 +9006,7 @@
   {
     "title": "春嵐",
     "artist": "john",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "59ae73d58c1962d3.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -9220,7 +9017,7 @@
   {
     "title": "アカツキアライヴァル",
     "artist": "Last Note.",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "f27eaa7f0425f9c8.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -9231,7 +9028,7 @@
   {
     "title": "リモコン",
     "artist": "じーざす（ワンダフル☆オポチュニティ！）",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "1eb8f36d4551b74b.png",
     "dx_lev_bas": "3",
     "dx_lev_adv": "6",
@@ -9286,7 +9083,7 @@
   {
     "title": "ラグトレイン",
     "artist": "稲葉曇",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "3d04a3710463921e.png",
     "dx_lev_bas": "2",
     "dx_lev_adv": "6",
@@ -9297,7 +9094,7 @@
   {
     "title": "on the rocks",
     "artist": "OSTER project",
-    "category": "niconico＆VOCALOID",
+    "category": "niconico＆VOCALOID™",
     "image_file": "6c0927e5febfcafd.png",
     "dx_lev_bas": "1",
     "dx_lev_adv": "6",
@@ -9348,5 +9145,227 @@
     "dx_lev_exp": "10",
     "dx_lev_mas": "13",
     "version": "舞萌DX 2022"
+  },
+  {
+    "title": "YONA YONA DANCE",
+    "artist": "和田アキ子",
+    "category": "流行&动漫",
+    "image_file": "18d42d69aa210172.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "エンヴィーベイビー",
+    "artist": "Kanaria",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "cae62842cadab3d9.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ヴァンパイア",
+    "artist": "DECO*27",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "d63402f44d60f77e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Knight Rider",
+    "artist": "USAO",
+    "category": "其他游戏",
+    "image_file": "fdb762a5225efc03.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "INTERNET OVERDOSE",
+    "artist": "Aiobahn feat. KOTOKO",
+    "category": "其他游戏",
+    "image_file": "5108df88dd9a6896.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "sølips",
+    "artist": "rintaro soma",
+    "category": "舞萌",
+    "image_file": "8043243d47cacaee.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "テリトリーバトル",
+    "artist": "ツユ",
+    "category": "音击/中二节奏",
+    "image_file": "af7eef1a3da40d6b.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "8-EM",
+    "artist": "Sampling Masters AYA",
+    "category": "音击/中二节奏",
+    "image_file": "3176c5e84eaa1818.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "くらべられっ子",
+    "artist": "ツユ",
+    "category": "流行&动漫",
+    "image_file": "53899521eb35e95d.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "あの世行きのバスに乗ってさらば。",
+    "artist": "ツユ",
+    "category": "流行&动漫",
+    "image_file": "12dd6e137e5e6c6c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "パラマウント☆ショータイム！！",
+    "artist": "翡乃イスカ",
+    "category": "舞萌",
+    "image_file": "f4f0f2f8ebd3f0da.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ｉｓｏｐｈｏｔｅ",
+    "artist": "パソコン音楽クラブ feat.ぷにぷに電機",
+    "category": "舞萌",
+    "image_file": "f6aef2150786d0b4.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "WiPE OUT MEMORIES",
+    "artist": "t+pazolite",
+    "category": "舞萌",
+    "image_file": "1a61a11a3b89420f.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "初音天地開闢神話",
+    "artist": "cosMo＠暴走P",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "2a0e0f93f9159310.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Armageddon",
+    "artist": "LeaF",
+    "category": "东方Project",
+    "image_file": "9ddf286fd3dcd371.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Strive against fate",
+    "artist": "Noah",
+    "category": "舞萌",
+    "image_file": "c22b6708af0c7a69.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Let you DIVE!",
+    "artist": "HARDCORE TANO*C & エリザベス（CV:大西沙織）",
+    "category": "其他游戏",
+    "image_file": "ce70f4f4f072bedf.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ミルキースター・シューティングスター",
+    "artist": "烏屋茶房 feat. 利香",
+    "category": "舞萌",
+    "image_file": "e625655fb14640ec.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Dreadnought",
+    "artist": "Mastermind(xi+nora2r)",
+    "category": "其他游戏",
+    "image_file": "5d72ff8765384da0.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "OTOGEMA",
+    "artist": "ビートまりお",
+    "category": "舞萌",
+    "image_file": "55f59b99f698b962.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
   }
 ]

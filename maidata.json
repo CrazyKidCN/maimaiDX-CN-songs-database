@@ -3083,22 +3083,30 @@
     "artist": "xi",
     "category": "其他游戏",
     "image_file": "4e2279e433710717.png",
+    "lev_bas": "6",
+    "lev_adv": "8+",
+    "lev_exp": "12",
+    "lev_mas": "14",
     "dx_lev_bas": "4",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13",
-    "version": "舞萌DX"
+    "version": "舞萌DX 2023"
   },
   {
     "title": "サンバランド",
     "artist": "SAMBA MASTER 佐藤",
     "category": "其他游戏",
     "image_file": "8d27eb1fd00caf9c.png",
+    "lev_bas": "4",
+    "lev_adv": "7",
+    "lev_exp": "11",
+    "lev_mas": "13",
     "dx_lev_bas": "2",
     "dx_lev_adv": "7",
     "dx_lev_exp": "10+",
     "dx_lev_mas": "12+",
-    "version": "舞萌DX"
+    "version": "舞萌DX 2023"
   },
   {
     "title": "End Time",
@@ -9531,6 +9539,193 @@
     "dx_lev_adv": "8+",
     "dx_lev_exp": "12+",
     "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "tape/stop/night",
+    "artist": "Sugar & Co.",
+    "category": "其他游戏",
+    "image_file": "21d83321da86a7b8.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Cthugha",
+    "artist": "USAO",
+    "category": "其他游戏",
+    "image_file": "90fc803686e1f37e.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "First Dance",
+    "artist": "削除",
+    "category": "其他游戏",
+    "image_file": "7f950ad7a5baa42d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Good bye, Merry-Go-Round.",
+    "artist": "Yooh",
+    "category": "音击/中二节奏",
+    "image_file": "c7f4f382b3342a09.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "春を告げる",
+    "artist": "yama",
+    "category": "流行&动漫",
+    "image_file": "1dffba288d353216.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "enchanted love",
+    "artist": "linear ring",
+    "category": "其他游戏",
+    "image_file": "a191381548e9cb18.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Caterpillar Song",
+    "artist": "Bitplane feat. 葉月ゆら",
+    "category": "其他游戏",
+    "image_file": "94e158c4f52c7c52.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "パーフェクション",
+    "artist": "柊マグネタイト",
+    "category": "舞萌",
+    "image_file": "cab8e9a2a5fcb025.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Irresistible",
+    "artist": "MK",
+    "category": "舞萌",
+    "image_file": "5a1380b2897bb763.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Princess♂",
+    "artist": "TOPHAMHAT-KYO",
+    "category": "流行&动漫",
+    "image_file": "773b8d4eb3c2829a.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ヒトガタ",
+    "artist": "HIMEHINA",
+    "category": "流行&动漫",
+    "image_file": "a33a77ea8c117b3d.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "オントロジー",
+    "artist": "Rain Drops",
+    "category": "流行&动漫",
+    "image_file": "377e669fca63c034.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "HAGAKIRI",
+    "artist": "Masayoshi Iimori",
+    "category": "舞萌",
+    "image_file": "6efe955c46de9657.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "HECATONCHEIR",
+    "artist": "Yuta Imai",
+    "category": "舞萌",
+    "image_file": "49e05689f3a0b19a.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "N3V3R G3T OV3R",
+    "artist": "C-Show",
+    "category": "舞萌",
+    "image_file": "4a4b3606f9a72e2c.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "VOLTAGE",
+    "artist": "Rain Drops",
+    "category": "流行&动漫",
+    "image_file": "225b8d72d8dbc59a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "デーモンベット",
+    "artist": "ちいたな feat.flower",
+    "category": "舞萌",
+    "image_file": "a1e05bf1f0247733.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2023"
   }
 ]

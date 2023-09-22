@@ -5621,7 +5621,11 @@
     "lev_exp": "10+",
     "lev_mas": "11+",
     "lev_remas": "12",
-    "version": "maimai PLUS"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
   },
   {
     "title": "ENJOY POLIS",
@@ -9726,6 +9730,160 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "剣を抜け！GCCX MAX",
+    "artist": "メッセメッセクラブ",
+    "category": "流行&动漫",
+    "image_file": "26c750b9768fcca5.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "エゴロック",
+    "artist": "すりぃ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "a0d49a6de0c2951d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ジャンキーナイトタウンオーケストラ",
+    "artist": "すりぃ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "9c0933c2097ea0dd.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "終焉逃避行",
+    "artist": "柊マグネタイト",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "bd436a8500d7ae0c.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Reach For The Stars (Re-Colors)",
+    "artist": "大谷智哉「ソニックカラーズ アルティメット」",
+    "category": "其他游戏",
+    "image_file": "872a9990a618097d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "星空パーティーチューン",
+    "artist": "OSTER project feat. そらこ",
+    "category": "舞萌",
+    "image_file": "34d250113b737f05.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "パズルリボン",
+    "artist": "すりぃ feat.りょーくん",
+    "category": "音击/中二节奏",
+    "image_file": "02ac5a7ec58b9e7f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ツクヨミステップ",
+    "artist": "ユリイ・カノン feat.nameless",
+    "category": "音击/中二节奏",
+    "image_file": "dbe50b3985a760b8.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "コスモポップファンクラブ",
+    "artist": "ナユタン星人",
+    "category": "音击/中二节奏",
+    "image_file": "4829035abbb63320.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "folern",
+    "artist": "ぬゆり",
+    "category": "音击/中二节奏",
+    "image_file": "a904cc91a7d095dd.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ただ選択があった",
+    "artist": "フロクロ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "8886cfbe27f73dfe.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "チューリングの跡",
+    "artist": "Frums",
+    "category": "舞萌",
+    "image_file": "6c38d19035bd1ea6.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Swift Swing",
+    "artist": "Laur",
+    "category": "舞萌",
+    "image_file": "b88e127e372b0c2e.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Sage",
+    "artist": "かめりあ",
+    "category": "舞萌",
+    "image_file": "4cd6568a0952195d.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
     "version": "舞萌DX 2023"
   }
 ]

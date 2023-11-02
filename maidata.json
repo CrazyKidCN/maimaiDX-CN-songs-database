@@ -2492,7 +2492,11 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "12+",
-    "version": "ORANGE PLUS"
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
   },
   {
     "title": "囲い無き世は一期の月影",
@@ -9884,6 +9888,149 @@
     "dx_lev_adv": "8",
     "dx_lev_exp": "12+",
     "dx_lev_mas": "14+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "三妖精SAY YA!!!",
+    "artist": "森羅万象",
+    "category": "东方Project",
+    "image_file": "30b9ee1f385156b4.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "紅に染まる恋の花",
+    "artist": "幽閉サテライト",
+    "category": "东方Project",
+    "image_file": "5aef951016fdee27.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "大輪の魂 (feat. AO, 司芭扶)",
+    "artist": "魂音泉",
+    "category": "东方Project",
+    "image_file": "ca4e36f40ed13f9e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Spring of Dreams",
+    "artist": "3L (NJK Record)",
+    "category": "东方Project",
+    "image_file": "25bcb2696dfcef90.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "BLUE ZONE",
+    "artist": "Tatsh x NAOKI",
+    "category": "其他游戏",
+    "image_file": "21c639ba03568a5a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Jouez Avec Moi?",
+    "artist": "Retropolitaliens (Ms.+駄々子)",
+    "category": "舞萌",
+    "image_file": "fa6943ebb851f378.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Metamorphosism",
+    "artist": "削除",
+    "category": "舞萌",
+    "image_file": "d02540b6cedfa362.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Transcend Lights",
+    "artist": "曲：小高光太郎／歌：オンゲキシューターズ",
+    "category": "音击/中二节奏",
+    "image_file": "48b49fc84a9226f9.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "エータ・ベータ・イータ",
+    "artist": "ルゼ",
+    "category": "音击/中二节奏",
+    "image_file": "241ef09441315f33.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "白花の天使",
+    "artist": "Yu-dachi",
+    "category": "舞萌",
+    "image_file": "f01f26e4a1228a08.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "World's end loneliness",
+    "artist": "打打だいず",
+    "category": "舞萌",
+    "image_file": "e341ba3d5adb60dd.png",
+    "dx_lev_bas": "7",
+    "dx_lev_adv": "9+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "撩乱乙女†無双劇",
+    "artist": "曲：Haggy Rock & 佐藤厚仁／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]",
+    "category": "音击/中二节奏",
+    "image_file": "536446ddde354589.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "See The Light",
+    "artist": "anubasu-anubasu",
+    "category": "音击/中二节奏",
+    "image_file": "65620eda680cc9f4.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
     "version": "舞萌DX 2023"
   }
 ]

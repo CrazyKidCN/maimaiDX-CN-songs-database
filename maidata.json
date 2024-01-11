@@ -5827,7 +5827,11 @@
     "lev_adv": "8",
     "lev_exp": "11",
     "lev_mas": "13+",
-    "version": "GreeN PLUS"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
   },
   {
     "title": "Danza zandA",
@@ -10338,6 +10342,182 @@
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "アマカミサマ",
+    "artist": "名取さな",
+    "category": "流行&动漫",
+    "image_file": "db00c4017f608b7a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "モンダイナイトリッパー！",
+    "artist": "名取さな",
+    "category": "流行&动漫",
+    "image_file": "d65e04a8a65075d9.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Luminaria",
+    "artist": "Lime",
+    "category": "其他游戏",
+    "image_file": "03b507681b4bb63f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "You Mean the World to Me",
+    "artist": "Mameyudoufu feat. Shully",
+    "category": "舞萌",
+    "image_file": "225fd594b05d2650.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "銀のめぐり",
+    "artist": "SYNC.ART'S feat. 3L",
+    "category": "东方Project",
+    "image_file": "d393d329db514825.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Destiny Runner",
+    "artist": "さわわ",
+    "category": "东方Project",
+    "image_file": "a1841b33431c9001.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Random",
+    "artist": "Sobrem × Silentroom",
+    "category": "其他游戏",
+    "image_file": "ad45a43a45bd4974.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Neon Kingdom",
+    "artist": "litmus*",
+    "category": "舞萌",
+    "image_file": "467af0cc4f091827.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Rising on the horizon",
+    "artist": "TAG",
+    "category": "舞萌",
+    "image_file": "7294b35c4ce70324.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "ViRTUS",
+    "artist": "Hiro",
+    "category": "舞萌",
+    "image_file": "5d89c120d8c41d6a.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "artist": "曲：TAKU INOUE／歌：早乙女 彩華(CV：中島 唯)",
+    "category": "音击/中二节奏",
+    "image_file": "a7a36ba57c915530.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "#狂った民族２ PRAVARGYAZOOQA",
+    "artist": "DJ Raisei",
+    "category": "舞萌",
+    "image_file": "1bde84ebe909f8bc.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "VSpook!",
+    "artist": "s-don",
+    "category": "舞萌",
+    "image_file": "5d7f7536dd643e71.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "MAGNETAR GIRL",
+    "artist": "Yu-dachi",
+    "category": "音击/中二节奏",
+    "image_file": "6aa746259d41bf92.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "Don't Fight The Music",
+    "artist": "黒魔",
+    "category": "音击/中二节奏",
+    "image_file": "2e9da84e3e523f2f.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2023"
+  },
+  {
+    "title": "SUPER AMBULANCE",
+    "artist": "AJURIKA",
+    "category": "音击/中二节奏",
+    "image_file": "11f607f1a79a3165.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2023"
   }
 ]

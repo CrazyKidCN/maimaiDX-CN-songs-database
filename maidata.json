@@ -1003,17 +1003,6 @@
     "version": "maimai PLUS"
   },
   {
-    "title": "ヒビカセ",
-    "artist": "GigaReol",
-    "category": "niconico＆VOCALOID™",
-    "image_file": "51c57344a3158454.png",
-    "lev_bas": "4",
-    "lev_adv": "7",
-    "lev_exp": "10",
-    "lev_mas": "12",
-    "version": "MiLK PLUS"
-  },
-  {
     "title": "+♂",
     "artist": "ギガ/れをる　ダンス　アルスマグナ",
     "category": "niconico＆VOCALOID™",
@@ -1181,7 +1170,11 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "12+",
-    "version": "GreeN PLUS"
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "トルコ行進曲 - オワタ＼(^o^)／",
@@ -10905,5 +10898,206 @@
     "dx_lev_exp": "12+",
     "dx_lev_mas": "14",
     "version": "舞萌DX 2023"
+  },
+  {
+    "title": "阿修羅ちゃん",
+    "artist": "Ado",
+    "category": "流行&动漫",
+    "image_file": "4277ad4d332c104a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "おとせサンダー",
+    "artist": "ぼっちぼろまる",
+    "category": "流行&动漫",
+    "image_file": "5d77231ceab248b4.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ヒバリ",
+    "artist": "HIMEHINA",
+    "category": "流行&动漫",
+    "image_file": "fed4dfdcc7c7554f.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "5",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Hello, Hologram",
+    "artist": "HIMEHINA",
+    "category": "流行&动漫",
+    "image_file": "5557331d09fee07b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "不機嫌なスリーカード",
+    "artist": "HIMEHINA",
+    "category": "流行&动漫",
+    "image_file": "8d2776e8b9c3ceaf.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ロウワー",
+    "artist": "ぬゆり",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "b184bbc558adbf41.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "魔法少女とチョコレゐト",
+    "artist": "ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3c8f19a3d9d8e0bd.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "MAGENTA POTION",
+    "artist": "EmoCosine",
+    "category": "其他游戏",
+    "image_file": "3902dd1ec9eec1d0.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Vallista",
+    "artist": "削除",
+    "category": "其他游戏",
+    "image_file": "c1e02d23d7cc8cca.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "トノサマビーム",
+    "artist": "ぼっちぼろまる",
+    "category": "舞萌",
+    "image_file": "8212573b9837ddff.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ツムギボシ",
+    "artist": "大国奏音 feat.timao",
+    "category": "舞萌",
+    "image_file": "793b837b2593552d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Comet Panto Men!",
+    "artist": "MYUKKE.",
+    "category": "舞萌",
+    "image_file": "81c7f7c9a9042eab.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Trrricksters!!",
+    "artist": "s-don vs. 翡乃イスカ",
+    "category": "音击/中二节奏",
+    "image_file": "482a7afdc94fba8b.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "キャットラビング",
+    "artist": "香椎モイミ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "67e27d4f36585603.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "神っぽいな",
+    "artist": "ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "c3a9afc3a22b1031.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "リスペク風神",
+    "artist": "ビートまりおとまろん",
+    "category": "东方Project",
+    "image_file": "7dbb031a76f34e1a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "enchanted wanderer",
+    "artist": "linear ring",
+    "category": "舞萌",
+    "image_file": "f7555b935a2eddc3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "VeRForTe αRtE:VEiN",
+    "artist": "orangentle",
+    "category": "舞萌",
+    "image_file": "5461cc48817a3c7a.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
   }
 ]

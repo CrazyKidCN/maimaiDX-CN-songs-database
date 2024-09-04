@@ -1240,7 +1240,11 @@
     "lev_adv": "8",
     "lev_exp": "10+",
     "lev_mas": "13+",
-    "version": "PiNK"
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "終点",
@@ -2848,7 +2852,11 @@
     "lev_exp": "10+",
     "lev_mas": "12",
     "lev_remas": "14",
-    "version": "GreeN"
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "疾走あんさんぶる",
@@ -5705,7 +5713,11 @@
     "lev_adv": "7+",
     "lev_exp": "9+",
     "lev_mas": "12",
-    "version": "GreeN PLUS"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "Beat of getting entangled",
@@ -11098,6 +11110,303 @@
     "dx_lev_adv": "8",
     "dx_lev_exp": "12+",
     "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "魂のルフラン",
+    "artist": "高橋洋子 [covered by 光吉猛修]",
+    "category": "流行&动漫",
+    "image_file": "9d1b30fd5d7e05df.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "私のドッペルゲンガー",
+    "artist": "DIVELA　feat.音楽的同位体　可不（KAFU）",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "25d2796e350abebe.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "インターネットサバイバー",
+    "artist": "あやぽんず＊ feat.ビートまりお × まろん",
+    "category": "东方Project",
+    "image_file": "60538d73546de334.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "コンティニュー！ feat. 藍月なくる",
+    "artist": "lapix",
+    "category": "其他游戏",
+    "image_file": "af4f08eaff72cde9.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Sunday Night feat Kanata.N",
+    "artist": "Mameyudoufu",
+    "category": "其他游戏",
+    "image_file": "ac573bb480e7fc70.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Halfway(>∀<)",
+    "artist": "Blacklolita",
+    "category": "其他游戏",
+    "image_file": "77c0243dedb23b60.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Complex Mind",
+    "artist": "YUKIYANAGI",
+    "category": "其他游戏",
+    "image_file": "b4ba936740486f75.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "DROPS feat. Such",
+    "artist": "Zekk & poplavor",
+    "category": "其他游戏",
+    "image_file": "413187f3403812f9.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "BULK UP (GAME EXCLUSIVE EDIT)",
+    "artist": "USAO & Yuta Imai",
+    "category": "其他游戏",
+    "image_file": "bde3cd8df3f6d7e5.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "リフヴェイン",
+    "artist": "青栗鼠 feat.sekai",
+    "category": "舞萌",
+    "image_file": "6626dcdb181d6d4e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "宵の鳥",
+    "artist": "n.k feat.影縫英",
+    "category": "舞萌",
+    "image_file": "e005c0199a1cf88d.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Kairos",
+    "artist": "ARForest feat.nayuta",
+    "category": "舞萌",
+    "image_file": "d1902fbb83b1c1cc.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "はんぶんこ",
+    "artist": "三枝明那",
+    "category": "流行&动漫",
+    "image_file": "4d9e0c3640c966c5.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "テオ",
+    "artist": "Omoi",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "d315e6c1c6b44779.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ヱデン",
+    "artist": "koyori（電ポルP）",
+    "category": "舞萌",
+    "image_file": "3f9cdf75c514d530.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "モ°ルモ°ル (MZK Skippin' Remix)",
+    "artist": "sasakure.UK／水野健治",
+    "category": "舞萌",
+    "image_file": "959d4a141d9b398b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "花となれ",
+    "artist": "雄之助　feat.音楽的同位体　可不（KAFU）",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "ccdf78d24c2c346d.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8+",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Shooting Shower～DANCE TIME(シンディ)～",
+    "artist": "Sammy Sound Team",
+    "category": "其他游戏",
+    "image_file": "9562876b64f4cedf.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "アンバークロニクル",
+    "artist": "しーけー feat.ricono",
+    "category": "舞萌",
+    "image_file": "575733d6aee16503.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ド屑",
+    "artist": "なきそ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "c94dcba3903fcde9.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "絶対敵対メチャキライヤー",
+    "artist": "メドミア",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "bdcf8e5695899ae6.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "にゃーにゃー冒険譚",
+    "artist": "黒魔",
+    "category": "舞萌",
+    "image_file": "2ee0ae1e83c28ce3.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+    "artist": "ああああ／大国奏音",
+    "category": "舞萌",
+    "image_file": "163cb65566312402.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "VERTeX (rintaro soma deconstructed remix)",
+    "artist": "Hiro／rintaro soma",
+    "category": "舞萌",
+    "image_file": "fad2062de9b868ae.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ずんだもんの朝食　〜目覚ましずんラップ〜",
+    "artist": "ひらうみ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "c4d3b35bca6c9943.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "PERSONA feat. PANXI",
+    "artist": "rejection",
+    "category": "其他游戏",
+    "image_file": "09b0894db54b2fd5.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "あなたは世界の終わりにずんだを食べるのだ",
+    "artist": "なみぐる",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "bc79d6ceafb61bd6.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2024"
   }
 ]

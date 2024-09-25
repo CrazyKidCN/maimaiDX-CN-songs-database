@@ -11408,5 +11408,60 @@
     "dx_lev_exp": "9+",
     "dx_lev_mas": "12+",
     "version": "舞萌DX 2024"
+  },
+  {
+    "title": "FLUFFY FLASH",
+    "artist": "Kobaryo",
+    "category": "音击/中二节奏",
+    "image_file": "6572d38b823295bd.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "つるぺったん",
+    "artist": "Silver Forest",
+    "category": "东方Project",
+    "image_file": "c30b982886cd4b33.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
+    "artist": "Masayoshi Minoshima [covered by 五十嵐 撫子(CV:花井 美春)]",
+    "category": "音击/中二节奏",
+    "image_file": "69815c3a46ef8b0f.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Snow Colored Score",
+    "artist": "イロドリミドリ「CHUNITHM」",
+    "category": "音击/中二节奏",
+    "image_file": "27e298313b402e0b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～",
+    "artist": "イロドリミドリ「CHUNITHM」",
+    "category": "音击/中二节奏",
+    "image_file": "fb636683b41b00f1.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
   }
 ]

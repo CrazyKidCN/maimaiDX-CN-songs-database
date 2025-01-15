@@ -5376,7 +5376,11 @@
     "lev_adv": "7",
     "lev_exp": "11",
     "lev_mas": "13",
-    "version": "ORANGE"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "CYCLES",
@@ -5883,7 +5887,11 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "12",
-    "version": "ORANGE PLUS"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "ピーマンたべたら",
@@ -11788,6 +11796,193 @@
     "dx_lev_adv": "7+",
     "dx_lev_exp": "10+",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "HUMANBORG",
+    "artist": "SARUKANI",
+    "category": "流行&动漫",
+    "image_file": "9e8c84f25675f149.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+    "artist": "南ノ南",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "5a5e8baece4c8dc4.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ノンブレス・オブリージュ",
+    "artist": "ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "6a7cf1cc1358ceba.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Love Kills U",
+    "artist": "EmoCosine",
+    "category": "其他游戏",
+    "image_file": "366bd9ce89bdcaf6.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "天使光輪",
+    "artist": "REDALiCE & cosMo＠暴走P",
+    "category": "其他游戏",
+    "image_file": "2df53853d801d0e9.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Mystic Parade",
+    "artist": "ひとしずく×やま△ feat.悠佑＆ないこ（いれいす）",
+    "category": "舞萌",
+    "image_file": "f2d52ff92515572f.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "KHYMΞXΛ",
+    "artist": "のらねこさい feat.ricono",
+    "category": "舞萌",
+    "image_file": "474425ed8b75f482.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "POWER OF UNITY",
+    "artist": "Zekk",
+    "category": "舞萌",
+    "image_file": "34d74efd7d8eca9d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "SQUAD-Phvntom-",
+    "artist": "Getty vs DJ DiA",
+    "category": "音击/中二节奏",
+    "image_file": "1f7f4a1e70e24919.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ULTRA POWER",
+    "artist": "SARUKANI",
+    "category": "流行&动漫",
+    "image_file": "0ee0733dfff12e09.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "DANGEROOOOUS JUNGLE",
+    "artist": "Laur",
+    "category": "其他游戏",
+    "image_file": "23e16c80b4451243.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ぽわわん劇場",
+    "artist": "ぽわわん劇場",
+    "category": "舞萌",
+    "image_file": "8a8d657158afc525.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Energizing Flame",
+    "artist": "Artifact vs. Dualcast",
+    "category": "舞萌",
+    "image_file": "eb39039aa47b1aa7.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "I’m Here (feat. Merry Kirk-Holmes)",
+    "artist": "大谷智哉「ソニックフロンティア」",
+    "category": "其他游戏",
+    "image_file": "80be5642b2087e7e.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "with U",
+    "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
+    "category": "其他游戏",
+    "image_file": "d39736ee3ce210a3.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "my flow",
+    "artist": "crayvxn",
+    "category": "舞萌",
+    "image_file": "bb78ce62fe4a3def.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Cry Cry Cry",
+    "artist": "FLG4 feat.Flower",
+    "category": "舞萌",
+    "image_file": "dedc00b2c9b959a0.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
     "version": "舞萌DX 2024"
   }
 ]

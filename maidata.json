@@ -7066,11 +7066,15 @@
     "artist": "山本真央樹",
     "category": "舞萌",
     "image_file": "a9be993d5f552289.png",
+    "lev_bas": "5",
+    "lev_adv": "9",
+    "lev_exp": "12+",
+    "lev_mas": "14",
     "dx_lev_bas": "4",
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
     "dx_lev_mas": "14",
-    "version": "舞萌DX 2021"
+    "version": "舞萌DX 2024"
   },
   {
     "title": "GRÄNDIR",
@@ -11983,6 +11987,171 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
     "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Burn My Soul",
+    "artist": "She is Legend",
+    "category": "流行&动漫",
+    "image_file": "3f75d0e0bf442ed0.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "トンデモワンダーズ",
+    "artist": "sasakure.UK",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "6f1f4f9f62ca793b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ジェヘナ",
+    "artist": "wotaku",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "0d250f5077500a46.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "raputa",
+    "artist": "sasakure.UK × TJ.hangneil",
+    "category": "舞萌",
+    "image_file": "486d317c19a52fd5.png",
+    "dx_lev_bas": "7",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "13+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Apollo",
+    "artist": "TJ.hangneil",
+    "category": "音击/中二节奏",
+    "image_file": "2b46dc47f1fe3d6d.png",
+    "dx_lev_bas": "7",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "PinqPiq (xovevox Remix)",
+    "artist": "owl＊tree Remixed by sasakure.UK",
+    "category": "音击/中二节奏",
+    "image_file": "0155b81ffa2eab24.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ツギハギスタッカート",
+    "artist": "とあ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "387ff1be544f7efc.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "神威",
+    "artist": "TJ.hangneil",
+    "category": "其他游戏",
+    "image_file": "1ca2b9f20e307c03.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "フタタビ",
+    "artist": "KAZE Lab",
+    "category": "舞萌",
+    "image_file": "97dd3b432fba0716.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ふらふらふら、",
+    "artist": "アオワイファイ feat.犀羅",
+    "category": "舞萌",
+    "image_file": "f7bab572b1bef0d9.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "＊ハロー、プラネット。",
+    "artist": "sasakure.UK",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "54d9be729151e423.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "ozma",
+    "artist": "TJ.hangneil",
+    "category": "其他游戏",
+    "image_file": "a4cebf8fa37c9318.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "月面基地",
+    "artist": "sasakure.UK",
+    "category": "其他游戏",
+    "image_file": "6c7c8837a9e4b14c.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "フェイクフェイス・フェイルセイフ",
+    "artist": "カラスヤサボウ feat. もるでお",
+    "category": "舞萌",
+    "image_file": "ef022adb2813059a.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "シックスプラン",
+    "artist": "針原翼（はりーP）feat. はく",
+    "category": "舞萌",
+    "image_file": "9cd7ade77cfb6cd4.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2024"
   }
 ]

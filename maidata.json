@@ -2027,7 +2027,11 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "11+",
-    "version": "MURASAKi"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
   },
   {
     "title": "月に叢雲華に風",
@@ -12152,6 +12156,138 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "9",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "QUEEN",
+    "artist": "Kanaria",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "4c8911dff643e5cb.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "天使の翼。",
+    "artist": "A4。",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "0412717b893fe247.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "HANIPAGANDA",
+    "artist": "暁Records",
+    "category": "东方Project",
+    "image_file": "0e72ea01a7940ebc.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Redemption",
+    "artist": "XinG、10lulu",
+    "category": "舞萌",
+    "image_file": "ee99a02fc685bbe4.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Straight into the lights",
+    "artist": "Cosmograph",
+    "category": "舞萌",
+    "image_file": "bb049831e2c0b573.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "WE'RE BACK!!",
+    "artist": "Zekk",
+    "category": "音击/中二节奏",
+    "image_file": "31d7d548f4a52676.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "さよならプリンセス",
+    "artist": "Kai",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "a98a61705b5d5c24.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "インパアフェクシオン・ホワイトガアル",
+    "artist": "ツミキ feat.月乃",
+    "category": "音击/中二节奏",
+    "image_file": "f3e016cdb888c313.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Ether Second",
+    "artist": "Akira Complex",
+    "category": "舞萌",
+    "image_file": "1572e3183f426fc0.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Ring",
+    "artist": "R Sound Design feat.向日葵",
+    "category": "音击/中二节奏",
+    "image_file": "dae3ed9c3ccbcdb2.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "Rush-Hour",
+    "artist": "litmus*",
+    "category": "其他游戏",
+    "image_file": "72add6e11afd6c5a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2024"
+  },
+  {
+    "title": "The Great Banquet",
+    "artist": "Iris",
+    "category": "舞萌",
+    "image_file": "4014389349bb320b.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2024"
   }
 ]

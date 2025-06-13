@@ -4145,7 +4145,11 @@
     "lev_adv": "6",
     "lev_exp": "11",
     "lev_mas": "12",
-    "version": "maimai PLUS"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "地上の戦士",
@@ -12289,5 +12293,207 @@
     "dx_lev_exp": "11",
     "dx_lev_mas": "14",
     "version": "舞萌DX 2024"
+  },
+  {
+    "title": "アイドル",
+    "artist": "YOASOBI",
+    "category": "流行&动漫",
+    "image_file": "c7c5029b33c09561.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "INTERNET YAMERO",
+    "artist": "Aiobahn feat. KOTOKO",
+    "category": "流行&动漫",
+    "image_file": "e7c32e5c2d4300ee.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "匿名M",
+    "artist": "ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3521590854ca73db.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "強風オールバック",
+    "artist": "ゆこぴ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "5a4d4a0c47036e31.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "寝起きヤシの木",
+    "artist": "ゆこぴ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "d0f58d2f2ac3b6d0.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ラビットホール",
+    "artist": "DECO*27",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "463ca52e854f4869.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Freak Out Hr.",
+    "artist": "雄之助 feat. POPY & ROSE",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "f014554b82f4e5cf.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Edelweiss",
+    "artist": "やどりぎ",
+    "category": "舞萌",
+    "image_file": "929e9ac15a6a6b70.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "MarbleBlue.",
+    "artist": "MisoilePunch♪",
+    "category": "音击/中二节奏",
+    "image_file": "297d6d7da385d698.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "過去を喰らう",
+    "artist": "花譜",
+    "category": "流行&动漫",
+    "image_file": "0d661350576c1dbe.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "酔いどれ知らず",
+    "artist": "Kanaria",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "ad57bb1283f79a33.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "8",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ハッピーシンセサイザ",
+    "artist": "EasyPop",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "17bd34442bb405c8.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "エスオーエス",
+    "artist": "カロンズベカラズ",
+    "category": "舞萌",
+    "image_file": "ec45c25d80cd0341.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "壱雫空",
+    "artist": "MyGO!!!!!",
+    "category": "流行&动漫",
+    "image_file": "565cf956baa7ffe8.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "さよならヒストリー",
+    "artist": "森羅万象",
+    "category": "东方Project",
+    "image_file": "4f34157be56c8be3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "New York Back Raise",
+    "artist": "saaa + kei_iwata + stuv + わかどり",
+    "category": "其他游戏",
+    "image_file": "794ac130eb662e74.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "のじゃロリック",
+    "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+    "category": "舞萌",
+    "image_file": "396fbb70013071f7.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "QuiQ",
+    "artist": "owl＊tree feat.nie＊tree",
+    "category": "舞萌",
+    "image_file": "cbe2c6b9420a2d98.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
   }
 ]

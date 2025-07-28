@@ -6154,7 +6154,7 @@
     "lev_adv": "6",
     "lev_exp": "10+",
     "lev_mas": "13",
-    "version": "maimai PLUS"
+    "version": "舞萌DX 2025"
   },
   {
     "title": "泣き虫O'clock",
@@ -12494,6 +12494,83 @@
     "dx_lev_adv": "8+",
     "dx_lev_exp": "12+",
     "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "バラバラ〜仮初レインボーローズ〜",
+    "artist": "花畑チャイカ＆椎名唯華",
+    "category": "流行&动漫",
+    "image_file": "119e1fa2c7387aa9.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "おくすり飲んで寝よう",
+    "artist": "もちうつね",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "848ca5372a825d86.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "勦滅",
+    "artist": "siqlo",
+    "category": "舞萌",
+    "image_file": "f724f87d64fa40db.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Bloody Trail",
+    "artist": "Hommarju",
+    "category": "舞萌",
+    "image_file": "e9c5825f3cebbfe1.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "サイバーサンダーサイダー",
+    "artist": "EZFG",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "8489c52144bb8be5.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Lunatic Vibes",
+    "artist": "K-forest",
+    "category": "舞萌",
+    "image_file": "7ab09df82652c586.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Cider P@rty",
+    "artist": "Ryo Fukuda",
+    "category": "舞萌",
+    "image_file": "4839dab189ca43a1.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2025"
   }
 ]

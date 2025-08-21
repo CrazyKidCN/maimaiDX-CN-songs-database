@@ -6154,6 +6154,10 @@
     "lev_adv": "6",
     "lev_exp": "10+",
     "lev_mas": "13",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "5",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2025"
   },
   {
@@ -12571,6 +12575,105 @@
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ラヴィ",
+    "artist": "すりぃ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "c4e7300bbe13a1d1.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "スティールユー",
+    "artist": "Omoi",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "e78eee64612c0152.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "オシオキGIMMICK!!",
+    "artist": "Junky",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "9397ebded3a032da.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "QUATTUORUX",
+    "artist": "打打だいず Vs. Tanchiky Vs. からめる",
+    "category": "其他游戏",
+    "image_file": "5d5496cab15d0422.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ouroboros -twin stroke of the end-",
+    "artist": "Cranky VS MASAKI",
+    "category": "其他游戏",
+    "image_file": "8b12a65d1c465e60.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "MUSIC PЯAYER",
+    "artist": "A-One",
+    "category": "音击/中二节奏",
+    "image_file": "3340e09175faaa70.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "tiny tales continue",
+    "artist": "黒魔",
+    "category": "其他游戏",
+    "image_file": "f29a219f4a370552.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "VOLT",
+    "artist": "aran",
+    "category": "其他游戏",
+    "image_file": "87162879cceeeb0b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "DUAL ROZES",
+    "artist": "SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi",
+    "category": "其他游戏",
+    "image_file": "90374370dd705b70.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13+",
     "version": "舞萌DX 2025"
   }
 ]

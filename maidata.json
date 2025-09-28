@@ -8898,11 +8898,15 @@
     "artist": "Umiai",
     "category": "舞萌",
     "image_file": "b95d6cec3fbbb04c.png",
+    "lev_bas": "5",
+    "lev_adv": "8",
+    "lev_exp": "12",
+    "lev_mas": "13+",
     "dx_lev_bas": "4",
     "dx_lev_adv": "7+",
     "dx_lev_exp": "11+",
     "dx_lev_mas": "13+",
-    "version": "舞萌DX 2022"
+    "version": "舞萌DX 2025"
   },
   {
     "title": "GIGANTØMAKHIA",
@@ -12674,6 +12678,171 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
     "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！",
+    "artist": "周防パトラ",
+    "category": "流行&动漫",
+    "image_file": "1a0ffd5bf37e729f.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Re:Unknown X",
+    "artist": "まらしぃ",
+    "category": "东方Project",
+    "image_file": "0847c38d2a623e99.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Beginning together!",
+    "artist": "高瀬一矢 feat. R.I.N.A",
+    "category": "舞萌",
+    "image_file": "091204c68ec374bc.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Shining Ray ～僕らの絆～",
+    "artist": "伊藤和馬(Arte Refact) feat.konoco",
+    "category": "舞萌",
+    "image_file": "683b3ea0430e281e.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "DEVOTION",
+    "artist": "AJURIKA feat.SAK.",
+    "category": "舞萌",
+    "image_file": "dfe08aefe5fcd266.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "バカ通信",
+    "artist": "isonosuke",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "5826cc96ab759012.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "RE:INCARNATED DRAGNER",
+    "artist": "黒沢ダイスケ × 小寺可南子",
+    "category": "舞萌",
+    "image_file": "08ecab27bca7f9f7.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Λzure Vixen",
+    "artist": "かめりあ",
+    "category": "音击/中二节奏",
+    "image_file": "52844a4b40958122.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "新人類",
+    "artist": "まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3d83103605f1e63c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "INFiNiTE ENERZY -Overdoze-",
+    "artist": "Reku Mochizuki",
+    "category": "其他游戏",
+    "image_file": "486ae6dae890e7d7.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "シュガーホリック",
+    "artist": "周防パトラ",
+    "category": "流行&动漫",
+    "image_file": "324d40da6e652209.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ザムザ",
+    "artist": "てにをは",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "8032e0a4e5be70bf.png",
+    "dx_lev_bas": "1",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "LOSTPHANTASIA",
+    "artist": "岸田教団&THE明星ロケッツ×草野華余子",
+    "category": "东方Project",
+    "image_file": "c825fb9620d74576.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
+    "artist": "Masayoshi Minoshima Remixed by 小室哲哉",
+    "category": "东方Project",
+    "image_file": "72e6a54b6da5262b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ライアーダンサー",
+    "artist": "マサラダ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3ecd712a72f9b81a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2025"
   }
 ]

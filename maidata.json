@@ -2538,7 +2538,11 @@
     "lev_adv": "6",
     "lev_exp": "9+",
     "lev_mas": "12+",
-    "version": "GreeN PLUS"
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "ケロ⑨destiny",
@@ -12843,6 +12847,160 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
+    "artist": "t+pazolite & Srav3R",
+    "category": "其他游戏",
+    "image_file": "b3f24cb4e56ccba5.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Trust",
+    "artist": "Massive New Krew feat. 光吉猛修",
+    "category": "其他游戏",
+    "image_file": "dadc9d2b98ecf1c8.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "BOOM! BOOM!! BOOM!!!",
+    "artist": "P*Light",
+    "category": "其他游戏",
+    "image_file": "9ffcfe46b8701004.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Everybody Say HARDCORE TANO*C",
+    "artist": "DJ Noriken",
+    "category": "其他游戏",
+    "image_file": "23b599302f289981.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ミラクルポップ☆アドベンチャー!!!!!",
+    "artist": "DJ Genki",
+    "category": "其他游戏",
+    "image_file": "15e5297f80a4aa55.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Divide et impera!",
+    "artist": "BlackY a.k.a. WAiKURO survive",
+    "category": "舞萌",
+    "image_file": "da7d3a099d23a585.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Geranium",
+    "artist": "Osanzi feat.藍月なくる",
+    "category": "舞萌",
+    "image_file": "acf47237292dfe55.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "The Cursed Doll",
+    "artist": "清風明月（Drop×葉月ゆら）",
+    "category": "舞萌",
+    "image_file": "4a62f16daa2b88e3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "RondeauX of RagnaroQ",
+    "artist": "Morrigan feat.Lily and 結城碧",
+    "category": "舞萌",
+    "image_file": "2741f6c344272eb8.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ℝ∈Χ LUNATiCA",
+    "artist": "Kai",
+    "category": "舞萌",
+    "image_file": "48447c3e67a26b08.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "最っ高のエンタメだ!!",
+    "artist": "曲：本田正樹(Dream Monster)／歌：7EVENDAYS⇔HOLIDAYS [井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]",
+    "category": "音击/中二节奏",
+    "image_file": "99de641563f8b8a1.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "まっすぐ→→→ストリーム！",
+    "artist": "曲：本多友紀（Arte Refact）／歌：日向 千夏(CV：岡咲 美保)",
+    "category": "音击/中二节奏",
+    "image_file": "41845620a08d44cf.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Baqeela",
+    "artist": "owl＊tree",
+    "category": "音击/中二节奏",
+    "image_file": "211cecb144f94410.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Ai C",
+    "artist": "Feryquitous",
+    "category": "音击/中二节奏",
+    "image_file": "17fd83901e99d7b6.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2025"
   }
 ]

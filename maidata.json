@@ -1796,7 +1796,11 @@
     "lev_adv": "6",
     "lev_exp": "10",
     "lev_mas": "11+",
-    "version": "ORANGE"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "Link",
@@ -5329,7 +5333,11 @@
     "lev_adv": "7+",
     "lev_exp": "10",
     "lev_mas": "13",
-    "version": "ORANGE PLUS"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "Dragoon",
@@ -13015,17 +13023,6 @@
     "version": "舞萌DX 2025"
   },
   {
-    "title": "セカイ",
-    "artist": "DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
-    "category": "niconico＆VOCALOID™",
-    "image_file": "f94a0405d632630e.png",
-    "dx_lev_bas": "2",
-    "dx_lev_adv": "6",
-    "dx_lev_exp": "10",
-    "dx_lev_mas": "12+",
-    "version": "舞萌DX 2025"
-  },
-  {
     "title": "needLe",
     "artist": "DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
     "category": "niconico＆VOCALOID™",
@@ -13070,13 +13067,135 @@
     "version": "舞萌DX 2025"
   },
   {
-    "title": "アイディスマイル",
-    "artist": "とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
-    "category": "niconico＆VOCALOID™",
-    "image_file": "08d332ae453192d2.png",
+    "title": "勇者",
+    "artist": "YOASOBI",
+    "category": "流行&动漫",
+    "image_file": "b36820c1c9f7f7e3.png",
     "dx_lev_bas": "3",
-    "dx_lev_adv": "7",
+    "dx_lev_adv": "6",
     "dx_lev_exp": "9+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "デビルじゃないもん",
+    "artist": "DECO*27, ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "b5e731e7ed59b8dd.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "病み垢ステロイド",
+    "artist": "かいりきベア",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "c9bb4e6aa64146f4.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ずんだパーリナイ",
+    "artist": "なみぐる feat.ずんだもん",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "9d9716c8ac790446.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Chronomia",
+    "artist": "Lime",
+    "category": "其他游戏",
+    "image_file": "ec046ab5d636f47c.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "パラドクスイヴ",
+    "artist": "Teary Planet",
+    "category": "舞萌",
+    "image_file": "cee93e70e6c82a7a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "YKWTD",
+    "artist": "r-906",
+    "category": "舞萌",
+    "image_file": "602137b1a10fa7eb.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "184億回のマルチトニック",
+    "artist": "Pizuya's Cell feat.中村さん",
+    "category": "舞萌",
+    "image_file": "a2354433a57c01eb.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "プリズム△▽リズム",
+    "artist": "Shoichiro Hirata feat.Sana",
+    "category": "舞萌",
+    "image_file": "0357191a14ae5114.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Elemental Ethnic",
+    "artist": "Yooh",
+    "category": "音击/中二节奏",
+    "image_file": "d24d81a72fa103e9.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "美夜月鏡",
+    "artist": "かゆき",
+    "category": "音击/中二节奏",
+    "image_file": "286e3071ecea46df.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "セカイ",
+    "artist": "DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "f94a0405d632630e.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
     "dx_lev_mas": "12+",
     "version": "舞萌DX 2025"
   },
@@ -13114,6 +13233,17 @@
     "version": "舞萌DX 2025"
   },
   {
+    "title": "アイディスマイル",
+    "artist": "とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "08d332ae453192d2.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
     "title": "自傷無色",
     "artist": "ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
     "category": "niconico＆VOCALOID™",
@@ -13122,6 +13252,120 @@
     "dx_lev_adv": "5",
     "dx_lev_exp": "9",
     "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "プラネタリウム・レヴュー",
+    "artist": "千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)",
+    "category": "流行&动漫",
+    "image_file": "fa634284c1049256.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Cryptarithm",
+    "artist": "削除",
+    "category": "舞萌",
+    "image_file": "cb40822c0f5a3ec1.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "唱",
+    "artist": "Ado",
+    "category": "流行&动漫",
+    "image_file": "4eb82a345908ca4f.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "愛包ダンスホール",
+    "artist": "HIMEHINA",
+    "category": "流行&动漫",
+    "image_file": "264d51b84676ad67.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "マツケンサンバⅡ",
+    "artist": "松平健 [covered by 光吉猛修]",
+    "category": "流行&动漫",
+    "image_file": "3dd9d507a078c2b1.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ダーリンダンス",
+    "artist": "かいりきベア",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "9910b237c1d3fd1b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Ultimate taste",
+    "artist": "ぱらどっと",
+    "category": "东方Project",
+    "image_file": "45151be961a7a053.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "シリウスの輝きのように",
+    "artist": "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)",
+    "category": "流行&动漫",
+    "image_file": "e855318fd3b94fc0.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "12",
+    "dx_lev_remas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "リアライズ",
+    "artist": "柊マグネタイト",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "edbfefdce47e1f93.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "はげしこの夜 -Psylent Crazy Night-",
+    "artist": "aran & Kobaryo",
+    "category": "其他游戏",
+    "image_file": "daaa34a941775307.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
     "version": "舞萌DX 2025"
   }
 ]

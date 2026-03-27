@@ -2197,7 +2197,11 @@
     "lev_adv": "6",
     "lev_exp": "10+",
     "lev_mas": "12",
-    "version": "MiLK"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "オーディエンスを沸かす程度の能力 feat.タイツォン",
@@ -13520,6 +13524,204 @@
     "dx_lev_adv": "7+",
     "dx_lev_exp": "12",
     "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "エンジェル ドリーム",
+    "artist": "「太鼓の達人」より",
+    "category": "其他游戏",
+    "image_file": "503b44d4dc8fff1c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Hurtling Boys",
+    "artist": "さだきち「太鼓の達人」より",
+    "category": "其他游戏",
+    "image_file": "50fa8e9ca7692f0c.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "On your mark (104期 Ver.)",
+    "artist": "蓮ノ空女学院スクールアイドルクラブ",
+    "category": "流行&动漫",
+    "image_file": "9257bd776ceabcfe.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "エイプリルスター",
+    "artist": "OSTER project",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3a6c5504f3f68c11.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ウルトラトレーラー",
+    "artist": "マサラダ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "a9dee04030e6eedd.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "バベル",
+    "artist": "いよわ feat.重音テト",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "6dc9f632ed4791fa.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "転生林檎",
+    "artist": "ピノキオピー",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "63ff2afcc2fe8c90.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "迷える音色は恋の唄",
+    "artist": "からとP⍺ոchii少年 feat.はるの",
+    "category": "其他游戏",
+    "image_file": "55c9897b6d540f73.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "地獄",
+    "artist": "164 feat.ELISA・小林太郎",
+    "category": "舞萌",
+    "image_file": "d859c7c05f6b756a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "オーバーライド",
+    "artist": "吉田夜世",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "7fc9d2db1826507b.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "右に曲ガール",
+    "artist": "はるふり",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "f99ee802d1590feb.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "てらてら",
+    "artist": "和田たけあき",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "f44e36f4e46a023e.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "snooze",
+    "artist": "wotaku feat.SHIKI",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "990f36f291344332.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Empire of Winter",
+    "artist": "Street",
+    "category": "其他游戏",
+    "image_file": "770738c6708a2870.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Abstruse Dilemma",
+    "artist": "Ashrount vs. 打打だいず",
+    "category": "其他游戏",
+    "image_file": "a5c6705e2bfa3419.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Löschen",
+    "artist": "BlackY feat. Risa Yuzuki",
+    "category": "其他游戏",
+    "image_file": "34026b1095d9e996.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "HYP3RTRIBE",
+    "artist": "sky_delta vs KO3 vs Tanchiky",
+    "category": "其他游戏",
+    "image_file": "57a1f926723b132f.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "シスターシスター",
+    "artist": "せきこみごはん",
+    "category": "舞萌",
+    "image_file": "c93267acca762322.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
     "version": "舞萌DX 2025"
   }
 ]

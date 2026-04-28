@@ -4990,7 +4990,11 @@
     "lev_adv": "7",
     "lev_exp": "11+",
     "lev_mas": "12+",
-    "version": "MURASAKi"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
   },
   {
     "title": "HERA",
@@ -13722,6 +13726,171 @@
     "dx_lev_adv": "6",
     "dx_lev_exp": "11",
     "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "果ての空、僕らが見た光。",
+    "artist": "TAKU1175 ft.駄々子",
+    "category": "舞萌",
+    "image_file": "a0307249aa05e567.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "モンスターカミング",
+    "artist": "おめがシスターズ",
+    "category": "流行&动漫",
+    "image_file": "93893d49e89ce1f2.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ワールドワイドワンダー",
+    "artist": "TOKOTOKO（西沢さんP）",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "68edfc4c5724bd13.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ピポピポ -People People- feat. ななひら",
+    "artist": "Neko Hacker",
+    "category": "其他游戏",
+    "image_file": "9de079083677da5b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Flashback",
+    "artist": "RiraN",
+    "category": "舞萌",
+    "image_file": "8d23c1808c240e57.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Colorfull:Encounter",
+    "artist": "Reku Mochizuki",
+    "category": "舞萌",
+    "image_file": "0380745bb9f9388b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "雨露霜雪",
+    "artist": "かねこちはる vs t+pazolite",
+    "category": "舞萌",
+    "image_file": "2c80b1a894f03420.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "お願い！コンコンお稲荷さま",
+    "artist": "ARM×狐夢想 feat. ななひら",
+    "category": "其他游戏",
+    "image_file": "a70ad05ed58abaaf.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "いっぱい食べる君が好きだよ",
+    "artist": "ななひら",
+    "category": "其他游戏",
+    "image_file": "99e85a1e3f0d8213.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "MORNINGLOOM",
+    "artist": "saaa",
+    "category": "其他游戏",
+    "image_file": "87188ddedc5496cf.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "How To Make 音ゲ～曲！",
+    "artist": "F Rabbeat feat.マスタード",
+    "category": "其他游戏",
+    "image_file": "f14e167e89e6ab22.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "いちげき！のテーマ",
+    "artist": "曲：ヒゲドライバー／歌：いちげきしゅーたーず！",
+    "category": "音击/中二节奏",
+    "image_file": "65e8e9900bb9161f.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Resolution",
+    "artist": "曲：ANCHOR／歌：皇城 セツナ(CV：八巻 アンナ)",
+    "category": "音击/中二节奏",
+    "image_file": "59b521d1daa4e5c3.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "Radiance",
+    "artist": "Nhato",
+    "category": "音击/中二节奏",
+    "image_file": "fca868901b5bc94e.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "R'N'R Monsta",
+    "artist": "Lite Show Magic",
+    "category": "音击/中二节奏",
+    "image_file": "162fce5271b54ab3.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2025"
   }
 ]

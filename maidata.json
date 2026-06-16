@@ -892,7 +892,11 @@
     "lev_adv": "7",
     "lev_exp": "10",
     "lev_mas": "12",
-    "version": "maimai PLUS"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "アンノウン・マザーグース",
@@ -6095,7 +6099,11 @@
     "lev_adv": "7",
     "lev_exp": "7+",
     "lev_mas": "11",
-    "version": "maimai"
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "犬日和。",
@@ -13892,5 +13900,239 @@
     "dx_lev_exp": "12",
     "dx_lev_mas": "14",
     "version": "舞萌DX 2025"
+  },
+  {
+    "title": "IF:U",
+    "artist": "MisoilePunch♪",
+    "category": "舞萌",
+    "image_file": "0c04b513c0520392.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "氷滅の135小節",
+    "artist": "大国奏音",
+    "category": "舞萌",
+    "image_file": "b28c21f0d14c6e26.png",
+    "dx_lev_bas": "7",
+    "dx_lev_adv": "9+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "ビビデバ",
+    "artist": "星街すいせい（ホロライブ）",
+    "category": "流行&动漫",
+    "image_file": "c518067f022fa72b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "モエチャッカファイア",
+    "artist": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」",
+    "category": "流行&动漫",
+    "image_file": "9eb45829c19ecb95.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "はいよろこんで",
+    "artist": "こっちのけんと",
+    "category": "流行&动漫",
+    "image_file": "64786ca51d37629b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "もういいよ",
+    "artist": "こっちのけんと",
+    "category": "流行&动漫",
+    "image_file": "ed7eb845cff3414e.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "シカ色デイズ",
+    "artist": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]",
+    "category": "流行&动漫",
+    "image_file": "e4740daf60ccd1dc.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "きゅびずむ",
+    "artist": "超てんちゃん",
+    "category": "流行&动漫",
+    "image_file": "d4f287d89b9d0f60.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "きゅびびびびずむ",
+    "artist": "超てんちゃん",
+    "category": "流行&动漫",
+    "image_file": "ce4c219f98b929ed.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "メズマライザー",
+    "artist": "サツキ feat.初音ミク・重音テト",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "cd6694c3b545ed8b.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "11+",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ももいろの鍵",
+    "artist": "いよわ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "a7716ed2b26b337b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "月光",
+    "artist": "歌：V.I.P／作詞・作曲：廉",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "06ae6978bd93cd5b.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Idoratrize World",
+    "artist": "A-One",
+    "category": "东方Project",
+    "image_file": "9361e3bf5d618acb.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Fraq",
+    "artist": "owl＊tree feat. べんざ",
+    "category": "舞萌",
+    "image_file": "ab757f2eed76db43.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ウタヒメナイトストーム",
+    "artist": "yowanecity feat.Eye",
+    "category": "舞萌",
+    "image_file": "180abf50bf90bb63.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Feel The Luv",
+    "artist": "EmoCosine",
+    "category": "舞萌",
+    "image_file": "0ad8bc668121b1cf.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Zitronectar",
+    "artist": "Reku Mochizuki",
+    "category": "音击/中二节奏",
+    "image_file": "2b7c6e8b13676f2e.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "のだ",
+    "artist": "大漠波新",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "4b1a0425008c5fc8.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Synthesis.",
+    "artist": "tn-shi",
+    "category": "其他游戏",
+    "image_file": "27619d6525a81f92.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ゆりかご",
+    "artist": "歌：可不／作詞・作曲：MIMI",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "3e37cf333cc6d5cc.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Supersonic Generation",
+    "artist": "Massive New Krew",
+    "category": "音击/中二节奏",
+    "image_file": "fa5e0d329a6c6726.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
   }
 ]

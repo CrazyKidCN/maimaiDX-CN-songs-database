@@ -14241,5 +14241,115 @@
     "dx_lev_exp": "11",
     "dx_lev_mas": "14",
     "version": "舞萌DX 2026"
+  },
+  {
+    "title": "マヌルネコのうた",
+    "artist": "小田朋美",
+    "category": "流行&动漫",
+    "image_file": "2785e0ca30c916da.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "スナネコのうた",
+    "artist": "ぷにぷに電機",
+    "category": "流行&动漫",
+    "image_file": "358706b964277c8b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "クーネル・エンゲイザー",
+    "artist": "電ǂ鯨",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "dc086a7d603b1832.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ゼロトーキング",
+    "artist": "はるまきごはん",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "d5b7dac7c24b8df6.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "抜錨",
+    "artist": "ナナホシ管弦楽団",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "e2995fcfaec824da.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "f5f0c148fc18e746.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Unfinished Epic",
+    "artist": "SLAVE.V-V-R feat.Sor△",
+    "category": "舞萌",
+    "image_file": "6c00472275eba77d.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "忙シー日",
+    "artist": "原口沙輔, 式部めぐり",
+    "category": "舞萌",
+    "image_file": "e27b4a41495e33d3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "概して過誤",
+    "artist": "isonosuke feat.知声",
+    "category": "舞萌",
+    "image_file": "1a43fdb9edd49c1d.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "なんかノイズにきこえる",
+    "artist": "HaNaMiNa feat.Hana",
+    "category": "音击/中二节奏",
+    "image_file": "8bd4abae1de74251.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
   }
 ]

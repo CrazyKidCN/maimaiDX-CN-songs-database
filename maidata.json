@@ -2416,7 +2416,11 @@
     "lev_adv": "7",
     "lev_exp": "9+",
     "lev_mas": "13",
-    "version": "GreeN PLUS"
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "White Traveling Girl",
@@ -14349,6 +14353,150 @@
     "dx_lev_bas": "3",
     "dx_lev_adv": "7",
     "dx_lev_exp": "9+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "宙天",
+    "artist": "t+pazolite vs かねこちはる",
+    "category": "舞萌",
+    "image_file": "92fed24b2755bbb4.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8+",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "うぇいびー",
+    "artist": "三枝明那",
+    "category": "流行&动漫",
+    "image_file": "4516b8b8e6cb4d7c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "dx_lev_remas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "RED",
+    "artist": "三枝明那",
+    "category": "流行&动漫",
+    "image_file": "9bfa0e4eab3c770c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ホラフキパペット",
+    "artist": "七次元生徒会！",
+    "category": "流行&动漫",
+    "image_file": "044c69ffe7a5d66a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "crazy (about you)",
+    "artist": "kamome sano",
+    "category": "音击/中二节奏",
+    "image_file": "099d921781514e64.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Drivessover",
+    "artist": "Taishi",
+    "category": "音击/中二节奏",
+    "image_file": "d9edba9ca1933abc.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "BlackFlagBreaker!!",
+    "artist": "社築 × sasakure.UK",
+    "category": "流行&动漫",
+    "image_file": "b63264a7cfe89264.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "㋰責任集合体",
+    "artist": "マサラダ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "a53cf82eedd35750.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "三日月ステップ 2023",
+    "artist": "r-906",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "624953ea26b3f5c3.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Pixel Galaxy",
+    "artist": "Snail's House",
+    "category": "其他游戏",
+    "image_file": "efa1f420c755d481.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "MYTH Re：LEASE",
+    "artist": "打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし",
+    "category": "其他游戏",
+    "image_file": "bf9cd35017832f93.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "∀",
+    "artist": "ああああ",
+    "category": "其他游戏",
+    "image_file": "e01e7560acc1348d.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "JIGOKU STATION CENTRAL GATE",
+    "artist": "鬱P feat.000",
+    "category": "音击/中二节奏",
+    "image_file": "1803a7329d1d7290.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
     "dx_lev_mas": "13+",
     "version": "舞萌DX 2026"
   }

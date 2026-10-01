@@ -14499,5 +14499,71 @@
     "dx_lev_exp": "11",
     "dx_lev_mas": "13+",
     "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Åntinomiε",
+    "artist": "ああ…翡翠茶漬け…",
+    "category": "舞萌",
+    "image_file": "b232e4ac452ac306.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "9",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "FLΛME/FRΦST",
+    "artist": "FANTAGIRAFF",
+    "category": "舞萌",
+    "image_file": "cd7dc8b9ec80cf06.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "14+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "IMBRUED:FLUX",
+    "artist": "qfeileadh feat.のあ",
+    "category": "舞萌",
+    "image_file": "51959395323a90a1.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "砂の函",
+    "artist": "Nego_tiator",
+    "category": "舞萌",
+    "image_file": "64591d22ccbf08c8.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Amereistr",
+    "artist": "rN",
+    "category": "舞萌",
+    "image_file": "bd5acd48e3191743.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "サウンドプレイヤー",
+    "artist": "tilt-six feat.バル",
+    "category": "音击/中二节奏",
+    "image_file": "9099bf55e3eb446a.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
   }
 ]

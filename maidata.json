@@ -940,7 +940,11 @@
     "lev_adv": "6",
     "lev_exp": "8+",
     "lev_mas": "12+",
-    "version": "GreeN"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "ワールズエンド・ダンスホール",
@@ -14575,6 +14579,138 @@
     "dx_lev_adv": "7",
     "dx_lev_exp": "10",
     "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "eda5cd3954117b53.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "少女A",
+    "artist": "椎名もた",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "4ef4e7537385b42b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "帝国少女",
+    "artist": "R Sound Design",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "edede17463c2cb20.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "空回りライブラリ",
+    "artist": "雪乃イト",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "143a62b2d78eca40.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "NO ONE YES MAN",
+    "artist": "MYUKKE.",
+    "category": "其他游戏",
+    "image_file": "2292348c921213b0.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Leave All Behind",
+    "artist": "rider",
+    "category": "其他游戏",
+    "image_file": "07c863cf04ef6f93.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "MIRA",
+    "artist": "Kanaria",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "35ca863f15d7624f.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9",
+    "dx_lev_mas": "12+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ありきたりな恋の歌",
+    "artist": "GYARI",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "d089a333ff0c746d.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Lover's Trick",
+    "artist": "litmus*",
+    "category": "音击/中二节奏",
+    "image_file": "a1e1854c51cf78ac.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "お呪い",
+    "artist": "なきそ",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "25f700cd2c5eb52b.png",
+    "dx_lev_bas": "2",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Luminescence",
+    "artist": "米虾Fomiki & 初云CLoudie",
+    "category": "其他游戏",
+    "image_file": "9c6ba4b62558b06a.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Retribution ～ Cycle of Redemption ～",
+    "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+    "category": "其他游戏",
+    "image_file": "bed54ad3ef5fea33.png",
+    "dx_lev_bas": "6",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "13",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2026"
   }
 ]
